@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> APW19980219.0492 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/19/1998 08:08:00 </DATE_TIME>
+<HEADER>
+w1167 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Portugal-OilSlick 1stLd-Writethru   02-19 0345
+</HEADER>
+<BODY>
+<SLUG> BC-Portugal-Oil Slick, 1st Ld-Writethru </SLUG>
+<HEADLINE>
+Azores port denies entry to leaking oil tanker
+</HEADLINE>
+ &UR; Eds: CORRECTS Azores sted of Lisbon port in overline; ADDS ``said''
+in 2nd graf &QL; 
+
+<TEXT>
+	   <ENAMEX TYPE="GPE">LISBON</ENAMEX>, <ENAMEX TYPE="GPE">Portugal</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ The <ENAMEX TYPE="GPE">Portuguese</ENAMEX> navy denied a leaking
+crude oil tanker permission to enter port in the <ENAMEX TYPE="GPE">Azores Islands</ENAMEX>
+Thursday.
+	   The <ENAMEX TYPE="GPE">Singapore</ENAMEX>-registered Front Lord sprung a leak from a cracked
+hull Tuesday. By nightfall Wednesday, it was trailing an 800-meter
+(yard) slick for 15 kilometers (9.4 miles), <ENAMEX TYPE="GPE">Portuguese</ENAMEX> navy Cmdr.
+<ENAMEX TYPE="PERSON">Miguel Oliveira</ENAMEX> said.
+	   ``Only when we have guarantees that the leakage has stopped will
+the ship be able to come into port (for repairs),'' <ENAMEX TYPE="PERSON">Oliveira</ENAMEX> said
+by telephone from the <ENAMEX TYPE="ORGANIZATION">Azores Maritime Rescue Coordination Center</ENAMEX>.
+	   The 149,000-ton vessel was in international waters, 250 miles
+(400 kilometers) west of the <ENAMEX TYPE="LOCATION">Atlantic</ENAMEX> <ENAMEX TYPE="GPE">archipelago</ENAMEX>, which lies 1,448
+kilometers (900 miles) west of mainland <ENAMEX TYPE="GPE">Portugal</ENAMEX>.
+	   It was carrying almost 264,000 tons of Brent Blend crude and
+appeared to be leaking oil from cargo tank number 4, according to a
+statement from the <ENAMEX TYPE="ORGANIZATION">Environment Ministry</ENAMEX> in <ENAMEX TYPE="GPE">Lisbon</ENAMEX>.
+	   <ENAMEX TYPE="PERSON">Oliveira</ENAMEX> said the ship's crew was working to halt the leak by
+transferring the crude from the cracked tank into an empty one.
+	   The <ENAMEX TYPE="ORGANIZATION">Environment Ministry</ENAMEX> reported 10-meter (yard)-high waves in
+the area and said there was some risk that the tank could split
+open, spilling up to 70,000 metric tons of crude into the sea, but
+there was no immediate concern of a major spill.
+	   ``So far there is no cause for alarm. We are not looking at a
+great environmental tragedy,'' <ENAMEX TYPE="ORGANIZATION">Environment Ministry</ENAMEX> spokesman
+<ENAMEX TYPE="PERSON">Carlos Pires</ENAMEX> said by telephone.
+	   A <ENAMEX TYPE="GPE">Portuguese</ENAMEX> navy corvette was shadowing the Front Lord but was
+not in contact with the vessel, according to <ENAMEX TYPE="PERSON">Oliveira</ENAMEX>.
+	   A <ENAMEX TYPE="GPE">Portuguese</ENAMEX> air force plane left the <ENAMEX TYPE="GPE">Azores</ENAMEX> early Thursday and
+was expected to report on the size of the slick later in the day.
+	   The ship was heading for the <ENAMEX TYPE="GPE">United States</ENAMEX>, but <ENAMEX TYPE="PERSON">Oliveira</ENAMEX> had no
+details on its exact destination or the crew.
+	   (bh/sk/krt) 	   
+</TEXT>
+(PROFILE
+(WS SL:BC-Portugal-Oil Slick, 1st Ld-Writethru; CT:i; 
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-19-98 0808EST
+</TRAILER>
+</DOC>

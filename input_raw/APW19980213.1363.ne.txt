@@ -1,0 +1,93 @@
+<DOC>
+<DOCNO> APW19980213.1363 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 15:03:00 </DATE_TIME>
+<HEADER>
+w2167 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-Iraq-Deputyminister 1stLd-Writethru   02-13 0565
+</HEADER>
+<BODY>
+<SLUG> BC-Iraq-Deputy minister, 1st Ld-Writethru </SLUG>
+<HEADLINE>
+With BC-Iraq
+</HEADLINE>
+&UR; Iraqi minister rebutts Sandy Berger's allegations &QL;
+&UR; Eds: COMBINES lede and add &QL;
+
+<TEXT>
+<ENAMEX TYPE="GPE">BAGHDAD</ENAMEX>, <ENAMEX TYPE="GPE">Iraq</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="GPE">Iraq</ENAMEX>'s deputy foreign minister attacked
+<ENAMEX TYPE="GPE">U.S.</ENAMEX> National Security Advisor <ENAMEX TYPE="PERSON">Sandy Berger</ENAMEX> Friday, accusing him of
+``lies and deception.''
+<ENAMEX TYPE="PERSON">Riyadh al-Qaysi</ENAMEX> picked his way through <ENAMEX TYPE="PERSON">Berger</ENAMEX>'s press conference
+in <ENAMEX TYPE="GPE">Washington</ENAMEX> hours earlier, criticizing the security advisor's
+assertion that <ENAMEX TYPE="GPE">Iraq</ENAMEX> had been repeatedly in ``material breach'' of
+<ENAMEX TYPE="ORGANIZATION">U.N. Security Council</ENAMEX> resolutions.
+``<ENAMEX TYPE="GPE">Iraq</ENAMEX> challenges (<ENAMEX TYPE="PERSON">Berger</ENAMEX>) to produce one <ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX>
+resolution using those two words,'' <ENAMEX TYPE="PERSON">al-Qaysi</ENAMEX> told reporters in
+<ENAMEX TYPE="GPE">Baghdad</ENAMEX>.
+He said that <ENAMEX TYPE="PERSON">Berger</ENAMEX> might not have been concerned with reality,
+because he had indicated that if the <ENAMEX TYPE="GPE">United States</ENAMEX> did not have the
+<ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX>'s unanimous support for a military strike, it
+would go ahead anyway.
+``Everybody knows that under the charter of the <ENAMEX TYPE="ORGANIZATION">United Nations</ENAMEX>,
+the five permanent members have a special responsibility for the
+maintenance of international peace and security and there are three
+permanent members _ namely <ENAMEX TYPE="GPE">Russia</ENAMEX>, <ENAMEX TYPE="GPE">France</ENAMEX> and <ENAMEX TYPE="GPE">China</ENAMEX> _ who do not
+want war, so unanimity does not exist,'' <ENAMEX TYPE="PERSON">al-Qaysi</ENAMEX> said.
+The deputy foreign minister accused <ENAMEX TYPE="PERSON">Berger</ENAMEX> of being part of a
+campaign against <ENAMEX TYPE="GPE">Iraq</ENAMEX>.
+``This campaign is being conducted on the basis of lies and
+deception and should not be taken by anyone in the world as being a
+justifiable basis for war.''
+``This is exactly what the <ENAMEX TYPE="GPE">United States</ENAMEX>, as supported by the
+<ENAMEX TYPE="GPE">United Kingdom</ENAMEX>, are trying to achieve.''
+<ENAMEX TYPE="PERSON">Al-Qaysi</ENAMEX> took issue with <ENAMEX TYPE="PERSON">Berger</ENAMEX>'s saying that any <ENAMEX TYPE="GPE">U.S.</ENAMEX> strike
+would be aimed at eliminating ``the threat of the use of weapons of
+mass destruction by <ENAMEX TYPE="GPE">Iraq</ENAMEX>.''
+<ENAMEX TYPE="PERSON">Berger</ENAMEX> ``considers <ENAMEX TYPE="ORGANIZATION">UNSCOM</ENAMEX> to be the body responsible for making
+such a determination,'' he said, referring to the <ENAMEX TYPE="ORGANIZATION">U.N. Special
+Commission</ENAMEX> whose inspectors are charged with searching for <ENAMEX TYPE="GPE">Iraq</ENAMEX>'s
+mass destruction weapons.
+``To my mind, and to that of my government, <ENAMEX TYPE="ORGANIZATION">UNSCOM</ENAMEX> has not made
+any reference to an existing threat, as of now, by <ENAMEX TYPE="GPE">Iraq</ENAMEX> against its
+neighbors on account of the existence of weapons of mass
+destruction. Its reports indicate the contrary.''
+<ENAMEX TYPE="PERSON">Al-Qaysi</ENAMEX> also criticized <ENAMEX TYPE="GPE">British</ENAMEX> Foreign Secretary <ENAMEX TYPE="PERSON">Robin Cook</ENAMEX>
+for saying earlier this week that <ENAMEX TYPE="GPE">Iraq</ENAMEX> posed a threat because it
+still possessed weapons of mass destruction.
+``Nothing can be further from the truth. He should check
+<ENAMEX TYPE="ORGANIZATION">UNSCOM</ENAMEX>'s report.''
+Referring to the <ENAMEX TYPE="GPE">U.S.</ENAMEX> and <ENAMEX TYPE="GPE">British</ENAMEX> threat to attack <ENAMEX TYPE="GPE">Iraq</ENAMEX> if it
+does not give unfettered access to <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> inspectors, whom <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Baghdad</ENAMEX></ENAMEX>
+has barred from a number of suspected weapons sites on grounds of
+national sovereignty, <ENAMEX TYPE="PERSON">al-Qaysi</ENAMEX> said the two powers were not seeking
+to reinforce the <ENAMEX TYPE="ORGANIZATION">Special Commission</ENAMEX>.
+``The objective is not <ENAMEX TYPE="ORGANIZATION">UNSCOM</ENAMEX>. The objective is to use military
+force per se.''
+The deputy foreign minister spelled out the location of the
+eight presidential sites that <ENAMEX TYPE="GPE">Iraq</ENAMEX> has offered to open up to
+inspectors appointed by <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> Secretary-General Kofi Annan.
+He said three of the sites were in <ENAMEX TYPE="GPE">Baghdad</ENAMEX>, three were
+<ENAMEX TYPE="GPE">Salah-Eddine</ENAMEX> (an area near <ENAMEX TYPE="GPE">Iraqi</ENAMEX> leader <ENAMEX TYPE="PERSON">Saddam Hussein</ENAMEX>'s home town
+of <ENAMEX TYPE="GPE">Tikrit</ENAMEX>, north of <ENAMEX TYPE="GPE">Baghdad</ENAMEX>), one was in the northern region of
+<ENAMEX TYPE="GPE">Ninawa</ENAMEX> (also known as <ENAMEX TYPE="GPE">Mosul</ENAMEX>), and one was in the southern city of
+<ENAMEX TYPE="GPE">Basra</ENAMEX>.
+It was first time that a senior <ENAMEX TYPE="GPE">Iraqi</ENAMEX> official had identified
+the eight sites.
+</TEXT>
+&UR; bm-jbm
+(PROFILE
+(WS SL:BC-Iraq-Deputy minister, 1st Ld-Writethru; CT:i;
+(REG:MEST;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1503EST
+</TRAILER>
+</DOC>
+

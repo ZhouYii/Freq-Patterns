@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> APW19980227.0476 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/27/1998 08:02:00 </DATE_TIME>
+<HEADER>
+w2381 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-WorldCourt-Lockerbie 5thLd   02-27 0169
+</HEADER>
+<BODY>
+<SLUG> BC-World Court-Lockerbie, 5th Ld </SLUG>
+<HEADLINE>
+World Court declares jurisdiction in Lockerbie dispute
+</HEADLINE>
+&UR; Eds: RECASTS lead to clarify; ADDS detail of U.S. and British
+objections in 3rd graf. &QL;
+&UR; AP Photo staffing &QL;
+&UR; By MIKE CORDER &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">THE HAGUE</ENAMEX>, <ENAMEX TYPE="GPE">Netherlands</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ The <ENAMEX TYPE="ORGANIZATION">World Court</ENAMEX> Friday rejected
+<ENAMEX TYPE="GPE">U.S.</ENAMEX> and <ENAMEX TYPE="GPE">British</ENAMEX> objections to a <ENAMEX TYPE="GPE">Libyan</ENAMEX> <ENAMEX TYPE="ORGANIZATION">World Court</ENAMEX> case that has
+blocked the trial of two Libyans suspected of blowing up a <ENAMEX TYPE="ORGANIZATION">Pan Am</ENAMEX>
+jumbo jet over <ENAMEX TYPE="GPE">Scotland</ENAMEX> in 1988.
+<ENAMEX TYPE="GPE">Libya</ENAMEX>, which brought the case to the <ENAMEX TYPE="ORGANIZATION">United Nations</ENAMEX>' highest
+judicial body in its dispute with the <ENAMEX TYPE="GPE">United States</ENAMEX> and <ENAMEX TYPE="GPE">Britain</ENAMEX>,
+hailed the ruling and said it would press anew for a trial in a
+third neutral country.
+Both <ENAMEX TYPE="GPE">U.S.</ENAMEX> and <ENAMEX TYPE="GPE">British</ENAMEX> officials filed objections to the court's
+jurisdiction in 1995, claiming <ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX> resolutions imposed
+on <ENAMEX TYPE="GPE">Lybia</ENAMEX> to force the suspects' extradition overruled a 1971
+Convention which gives <ENAMEX TYPE="GPE">Libya</ENAMEX> the right to try the men.
+The decision, 3rd graf pvs.
+</TEXT>
+(PROFILE
+(WS SL:BC-World Court-Lockerbie, 5th Ld; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-27-98 0802EST
+</TRAILER>
+</DOC>
+

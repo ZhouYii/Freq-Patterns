@@ -1,0 +1,101 @@
+<DOC>
+<DOCNO> APW19980213.1310 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 14:26:00 </DATE_TIME>
+<HEADER>
+w2112 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Australia-Republic 4thLd-Writethru   02-13 0603
+</HEADER>
+<BODY>
+<SLUG> BC-Australia-Republic, 4th Ld-Writethru,0602 </SLUG>
+<HEADLINE>
+Constitutional convention votes for republic, against links to
+</HEADLINE>
+British monarchy &QL;
+&UR; Eds: ADDS 2 grafs at end with reaction from former prime minister
+Paul Keating &QL;
+&UR; AP Photo CANB101,102,103 &QL;
+&UR; By ALAN THORNHILL &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">CANBERRA</ENAMEX>, <ENAMEX TYPE="GPE">Australia</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Turning its back on 210 years of
+loyalty to the <ENAMEX TYPE="GPE">British</ENAMEX> royal family, a constitutional convention
+voted overwhelmingly Friday to make <ENAMEX TYPE="GPE">Australia</ENAMEX> a republic under its
+own president.
+Prime Minister <ENAMEX TYPE="PERSON">John Howard</ENAMEX>, a monarchist himself, promised to
+put the question to a national referendum next year after
+convention delegates voted 89-52 for a republic, with 11
+abstentions.
+Spontaneous applause echoed through the chamber and public
+galleries as the crucial vote passed by a wide margin.
+``I want a referendum,'' <ENAMEX TYPE="PERSON">Howard</ENAMEX> said. ``The <ENAMEX TYPE="GPE">Australian</ENAMEX> people
+are owed the opportunity of expressing an opinion on this.''
+``It would be a travesty in common sense terms of <ENAMEX TYPE="GPE">Australian</ENAMEX>
+democracy for that proposition not to be put to the <ENAMEX TYPE="GPE">Australian</ENAMEX>
+people,'' <ENAMEX TYPE="PERSON">Howard</ENAMEX> said.
+Even in his own Cabinet, <ENAMEX TYPE="PERSON">Howard</ENAMEX> is becoming increasingly
+isolated with his monarchist stance. Treasurer <ENAMEX TYPE="PERSON">Peter Costello</ENAMEX>,
+Environment Minister <ENAMEX TYPE="PERSON">Robert Hill</ENAMEX> and Attorney General <ENAMEX TYPE="PERSON">Daryl
+Williams</ENAMEX> all voted to support the republic Friday.
+``This convention will be seen as a turning point in our
+history,'' <ENAMEX TYPE="ORGANIZATION">Australian Republican Movement</ENAMEX> spokeswoman <ENAMEX TYPE="PERSON">Mary
+Delahunty</ENAMEX> said.
+Pro-republicans hope to have an <ENAMEX TYPE="GPE">Australian</ENAMEX> president by the
+opening of the 2000 Olympics and the 100th anniversary of
+<ENAMEX TYPE="GPE">Australian</ENAMEX> federation.
+Calling for an amended constitution with a new preamble, to be
+written by <ENAMEX TYPE="GPE">Australian</ENAMEX> poets, republican <ENAMEX TYPE="PERSON">Janet Holmes a Court</ENAMEX> said,
+``We need the smell of eucalyptus in this, and the feel of red
+dust.''
+Monarchists hope to defeat the republic at the referendum.
+``The phony war has finished and the real referendum campaign
+has clearly begun,'' <ENAMEX TYPE="ORGANIZATION">Australians for a Constitutional Monarchy</ENAMEX>
+executive director <ENAMEX TYPE="PERSON">Kerry Jones</ENAMEX> said.
+``Well may we say `God save the Queen,' for nothing will save
+the republic,'' outraged monarchist delegate <ENAMEX TYPE="PERSON">David Mitchell</ENAMEX> said.
+``The idea of a republic will fall to dust through the grace of
+almighty God.''
+Polls have shown public support for a republic increasing,
+rising from about 35 percent several years ago to about 51 percent
+this year, as pro-monarchist sentiment diminishes.
+<ENAMEX TYPE="GPE">Australia</ENAMEX> has been independent since 1901, but like many
+<ENAMEX TYPE="GPE">Commonwealth</ENAMEX> nations it still recognizes the <ENAMEX TYPE="GPE">British</ENAMEX> monarch as its
+head of state.
+<ENAMEX TYPE="PERSON">Howard</ENAMEX> said <ENAMEX TYPE="PERSON">Queen Elizabeth II</ENAMEX> is taking a great interest in the
+convention.
+``She is, I can assure you, from what I've been told, she's
+following the thing very closely and taking the view it's our
+business.
+``It's no secret that she's indicated to me ... she is a 20th
+century democrat, understands that the role of the crown in
+<ENAMEX TYPE="GPE">Australia</ENAMEX> rests in the hands of the <ENAMEX TYPE="GPE">Australian</ENAMEX> people as it has for
+almost a hundred years.''
+The model for a republic, adopted over bitter objections from
+those advocating direct election of a president, is for
+presidential nominations to be made with public input and the
+winning candidate decided by a two-thirds majority of <ENAMEX TYPE="ORGANIZATION">Parliament</ENAMEX>.
+Former prime minister <ENAMEX TYPE="PERSON">Paul Keating</ENAMEX>, who put the republic issue
+in the spotlight in his unsuccessful 1996 campaign for re-election,
+welcomed the result.
+``This is an important step along the path towards <ENAMEX TYPE="GPE">Australia</ENAMEX>
+claiming its full sovereignty, and due recognition that the
+monarchy can no longer serve us appropriately,'' <ENAMEX TYPE="PERSON">Keating</ENAMEX> said.
+</TEXT>
+(PROFILE
+(WS SL:BC-Australia-Republic, 4th Ld-Writethru; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1426EST
+</TRAILER>
+</DOC>
+

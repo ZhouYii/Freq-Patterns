@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> APW19980219.0510 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/19/1998 08:16:00 </DATE_TIME>
+<HEADER>
+w1187 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-Iraq 5thLd   02-19 0298
+</HEADER>
+<BODY>
+<SLUG> BC-Iraq, 5th Ld,0298 </SLUG>
+<HEADLINE>
+U.N. relief workers start leaving as Iraq readies for Annan
+</HEADLINE>
+ &UR; Eds: RECASTS lead XXX grafs; CHANGES today to Thursday in graf 6. &QL; 
+ &UR; BY WAIEL FALEH &QC; 
+ &UR; Associated Press Writer &QC; 
+
+<TEXT>
+	   <ENAMEX TYPE="GPE">BAGHDAD</ENAMEX>, <ENAMEX TYPE="GPE">Iraq</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ The <ENAMEX TYPE="ORGANIZATION">Polish Embassy</ENAMEX>, which represents <ENAMEX TYPE="GPE">U.S.</ENAMEX>
+interests in <ENAMEX TYPE="GPE">Iraq</ENAMEX>, evacuated the majority of its diplomats
+Thursday, the same day buses of <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> relief workers left the <ENAMEX TYPE="GPE">Iraqi</ENAMEX>
+capital as a precaution against a possible <ENAMEX TYPE="GPE">U.S.</ENAMEX> attack if <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX>
+Secretary-General <ENAMEX TYPE="PERSON">Kofi Annan</ENAMEX>'s peace mission fails.
+	   The embassy, which represented <ENAMEX TYPE="GPE">U.S.</ENAMEX> interests since the 1991
+Gulf War, evacuated 10 of its 16 diplomats. The <ENAMEX TYPE="GPE">Polish</ENAMEX> ambassador
+and another diplomat who works on behalf of the <ENAMEX TYPE="GPE">United States</ENAMEX> were
+among those staying behind.
+	   <ENAMEX TYPE="GPE">Iraqi</ENAMEX> leader <ENAMEX TYPE="PERSON">Saddam Hussein</ENAMEX>, meanwhile, sent a message to
+<ENAMEX TYPE="GPE">Russian</ENAMEX> President <ENAMEX TYPE="PERSON">Boris Yeltsin</ENAMEX> saying he remains committed to a
+diplomatic solution to the impasse over <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> weapons inspections,
+the official <ENAMEX TYPE="ORGANIZATION">Iraqi News Agency</ENAMEX> reported. The <ENAMEX TYPE="GPE">Russian</ENAMEX> leader has
+been one of the loudest opponents to any use of force to end the
+standoff.
+	   An <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> advance team of about 20 people arrived at <ENAMEX TYPE="FACILITY">Habbaniya
+airport</ENAMEX> west of <ENAMEX TYPE="GPE">Baghdad</ENAMEX> on Thursday to prepare for <ENAMEX TYPE="PERSON">Annan</ENAMEX>'s arrival
+Friday.
+	   <ENAMEX TYPE="PERSON">Annan</ENAMEX>, who won the blessing of the <ENAMEX TYPE="ORGANIZATION">U.N. Security Council</ENAMEX> on
+Wednesday night for the diplomatic mission, said he was leaving
+with a ``reasonable chance of success'' and plans to meet with
+<ENAMEX TYPE="PERSON">Saddam</ENAMEX>.
+	   Despite the optimistic talk of a breakthrough, 29 <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> employees
+loaded their gear into buses in <ENAMEX TYPE="GPE">Baghdad</ENAMEX> on Thursday and headed to
+<ENAMEX TYPE="GPE">Amman</ENAMEX>, <ENAMEX TYPE="GPE">Jordan</ENAMEX>. <ENAMEX TYPE="PERSON">Denis Halliday</ENAMEX>, the <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> humanitarian coordinator
+for <ENAMEX TYPE="GPE">Iraq</ENAMEX>, said roughly the same number would leave Friday. Two
+other employees were going to northern <ENAMEX TYPE="LOCATION">Iraq</ENAMEX> under Kurdish control.
+	   Last week, graf 7 pvs
+</TEXT>
+(PROFILE
+(WS SL:BC-Iraq, 5th Ld; CT:i; 
+(REG:MEST;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:AFRI;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-19-98 0816EST
+</TRAILER>
+</DOC>
+

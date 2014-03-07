@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> APW19980227.0487 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/27/1998 08:09:00 </DATE_TIME>
+<HEADER>
+w2392 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-Israel-Rabin     02-27 0300
+</HEADER>
+<BODY>
+<SLUG> BC-Israel-Rabin,0300 </SLUG>
+<HEADLINE>
+Friend of Rabin's assassin regretted praying for Rabin's death
+</HEADLINE>
+&UR; By DANNA HARMAN &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">JERUSALEM</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Taking the stand in her own defense, a friend
+of <ENAMEX TYPE="PERSON">Yitzhak Rabin</ENAMEX>'s assassin said Friday that she regretted calling
+the prime minister a traitor and praying for his death.
+<ENAMEX TYPE="PERSON">Margalit Har-Shefi</ENAMEX>, 22, has pleaded innocent to charges that she
+failed to report <ENAMEX TYPE="PERSON">Yigal Amir</ENAMEX>'s plan to kill <ENAMEX TYPE="PERSON">Rabin</ENAMEX>. She took the
+stand for more than four hours Friday in a <ENAMEX TYPE="GPE">Tel Aviv</ENAMEX> magistrate's
+court.
+<ENAMEX TYPE="PERSON">Amir</ENAMEX>, 27, is serving a life sentence for the November 1995
+assassination of <ENAMEX TYPE="PERSON">Rabin</ENAMEX> at a <ENAMEX TYPE="GPE">Tel Aviv</ENAMEX> peace rally. Newspaper reports
+have said <ENAMEX TYPE="PERSON">Amir</ENAMEX> was infatuated with <ENAMEX TYPE="PERSON">Har-Shefi</ENAMEX> and may have been
+trying to impress her by killing the prime minister.
+<ENAMEX TYPE="PERSON">Har-Shefi</ENAMEX> acknowledged she told police interrogators that <ENAMEX TYPE="PERSON">Rabin</ENAMEX>
+was a traitor and that she prayed for him to have a heart attack
+and die. She said <ENAMEX TYPE="PERSON">Rabin</ENAMEX>'s murder was ``a black stain on <ENAMEX TYPE="GPE">Israel</ENAMEX>,''
+<ENAMEX TYPE="ORGANIZATION">Israel radio</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Israel army radio</ENAMEX> reported.
+<ENAMEX TYPE="PERSON">Har-Shefi</ENAMEX> said she heard <ENAMEX TYPE="PERSON">Amir</ENAMEX> talk about killing <ENAMEX TYPE="PERSON">Rabin</ENAMEX> but did
+not tell the police because she did not believe he was serious.
+Instead, she turned to her community rabbi in the Jewish <ENAMEX TYPE="LOCATION">West Bank</ENAMEX>
+settlement of <ENAMEX TYPE="GPE">Beit El</ENAMEX> and told him about <ENAMEX TYPE="PERSON">Amir</ENAMEX>'s statements. The
+rabbi said called the talk about killing <ENAMEX TYPE="PERSON">Rabin</ENAMEX> ``nonsense,'' and
+said Jews are prohibited from killing one another, the radio
+reports said.
+<ENAMEX TYPE="PERSON">Har-Shefi</ENAMEX> described <ENAMEX TYPE="PERSON">Amir</ENAMEX> as an ``original thinker,'' as well as
+delusional and a liar.
+She also denied accusations made by <ENAMEX TYPE="PERSON">Amir</ENAMEX>'s brother, <ENAMEX TYPE="PERSON">Hagai</ENAMEX>, that
+she joined an anti-<ENAMEX TYPE="PERSON">Arab</ENAMEX> underground movement. She said she gave the
+<ENAMEX TYPE="PERSON">Amir</ENAMEX> brothers false information regarding the location of a weapons
+and ammunition cache when they asked her to help organize such a
+movement.
+</TEXT>
+(PROFILE
+(WS SL:BC-Israel-Rabin; CT:i;
+(REG:MEST;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:AFRI;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-27-98 0809EST
+</TRAILER>
+</DOC>

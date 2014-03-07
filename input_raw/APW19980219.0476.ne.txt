@@ -1,0 +1,104 @@
+<DOC>
+<DOCNO> APW19980219.0476 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/19/1998 08:02:00 </DATE_TIME>
+<HEADER>
+w1151 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Cambodia-Britain-Host     02-19 0690
+</HEADER>
+<BODY>
+<SLUG> BC-Cambodia-Britain-Hostage </SLUG>
+<HEADLINE>
+Cambodian resistance general looking for remains of missing Briton
+</HEADLINE>
+ &UR; By DON PATHAN &QC; 
+ &UR; Associated Press Writer &QC; 
+
+<TEXT>
+	   <ENAMEX TYPE="GPE">O'SMACH</ENAMEX>, <ENAMEX TYPE="GPE">Cambodia</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ The top commander of a <ENAMEX TYPE="GPE">Cambodian</ENAMEX>
+resistance force said Thursday he has sent a team to recover the
+remains of a <ENAMEX TYPE="GPE">British</ENAMEX> mine removal expert kidnapped and presumed
+killed by <ENAMEX TYPE="ORGANIZATION">Khmer Rouge</ENAMEX> guerrillas almost two years ago.
+	   Gen. <ENAMEX TYPE="PERSON">Nhek Bunchhay</ENAMEX>, a loyalist of ousted <ENAMEX TYPE="GPE">Cambodian</ENAMEX> Prime
+Minister Prince <ENAMEX TYPE="PERSON">Norodom Ranariddh</ENAMEX>, said in an interview with The
+<ENAMEX TYPE="ORGANIZATION">Associated Press</ENAMEX> at his hilltop headquarters that he hopes to
+recover the remains of <ENAMEX TYPE="PERSON">Christopher Howes</ENAMEX> within the next two weeks.
+	   <ENAMEX TYPE="PERSON">Howes</ENAMEX> had been working for the <ENAMEX TYPE="GPE">Britain</ENAMEX>-based <ENAMEX TYPE="ORGANIZATION">Mines Advisory
+Group</ENAMEX> when he was abducted with his <ENAMEX TYPE="GPE">Cambodian</ENAMEX> interpreter Houn
+Hourth in March 1996. There were many conflicting accounts of his
+fate.
+	   <ENAMEX TYPE="PERSON">Howes</ENAMEX>' team was clearing mines 17 kilometers (10 miles) from
+<ENAMEX TYPE="FACILITY">Angkor Wat</ENAMEX>, the fabled 11th century temple that is <ENAMEX TYPE="GPE">Cambodia</ENAMEX>'s main
+tourist attraction, when it was attacked.
+	   In January this year, <ENAMEX TYPE="GPE">British</ENAMEX> police officers who had been
+searching for <ENAMEX TYPE="PERSON">Howes</ENAMEX> concluded he had probably been killed soon
+after being captured.
+	   The <ENAMEX TYPE="ORGANIZATION">Foreign Office</ENAMEX> said it had informed the family of <ENAMEX TYPE="PERSON">Howes</ENAMEX>, 37
+years old when he was kidnapped, that he probably died within weeks
+or months of his capture on March 26, 1996.
+	   ``Obviously, it is deeply discouraging for the family after 22
+months, but there is no proof of life. But there is no evidence in
+either direction _ that there is proof of life or death,'' said a
+<ENAMEX TYPE="ORGANIZATION">Foreign Office</ENAMEX> spokesman, speaking with customary anonymity. ``We
+will continue to do everything we can to establish what has
+happened.''
+	   <ENAMEX TYPE="GPE">Thai</ENAMEX> military officials who monitor <ENAMEX TYPE="GPE">Cambodian</ENAMEX> affairs said
+privately Thursday that <ENAMEX TYPE="GPE">Britain</ENAMEX>, through its embassies in <ENAMEX TYPE="GPE">Thailand</ENAMEX>
+and <ENAMEX TYPE="GPE">Cambodia</ENAMEX>, has been pushing hard to resolve the <ENAMEX TYPE="PERSON">Howes</ENAMEX> case as
+the second anniversary of his abduction nears.
+	   <ENAMEX TYPE="PERSON">Nhek Bunchhay</ENAMEX>, who had been closely involved in the search for
+<ENAMEX TYPE="PERSON">Howes</ENAMEX> before having to flee the <ENAMEX TYPE="GPE">Cambodian</ENAMEX> capital after a coup
+d'etat last year, appeared confident he would find <ENAMEX TYPE="PERSON">Howes</ENAMEX>' remains.
+	   He said he received information from <ENAMEX TYPE="ORGANIZATION">Khmer Rouge</ENAMEX> guerrillas on
+where the body had been buried, and recently ordered 10 of his men
+from a force of 500 near <ENAMEX TYPE="ORGANIZATION">Khmer Rouge</ENAMEX> headquarters in <ENAMEX TYPE="GPE">Anlong Veng</ENAMEX> to
+conduct the search.
+	   If and when the remains are found, he said, they would be turned
+over to the <ENAMEX TYPE="ORGANIZATION">British Embassy</ENAMEX>, apparently meaning they would be sent
+across the border into <ENAMEX TYPE="GPE">Thailand</ENAMEX> and onward to <ENAMEX TYPE="GPE">Bangkok</ENAMEX>.
+	   <ENAMEX TYPE="PERSON">Nhek Bunchhay</ENAMEX> said he now believed <ENAMEX TYPE="PERSON">Howes</ENAMEX> had been killed within
+a week of his capture by a <ENAMEX TYPE="ORGANIZATION">Khmer Rouge</ENAMEX> faction loyal to <ENAMEX TYPE="PERSON">Pol Pot</ENAMEX>,
+then the guerrilla group's leader. <ENAMEX TYPE="PERSON">Pol Pot</ENAMEX> is considered
+responsible for the radical policies that led to the deaths of as
+many as 1.7 million Cambodians when the communist group held power
+in the late 1970s.
+	   At the time <ENAMEX TYPE="PERSON">Howes</ENAMEX> was captured, the <ENAMEX TYPE="ORGANIZATION">Khmer Rouge</ENAMEX> were a more or
+less united guerrilla force with more than 10,000 men under arms.
+But the group began to fall apart in mid-1996 after the defection
+of one of its top leaders, <ENAMEX TYPE="PERSON">Ieng Sary</ENAMEX>. Other commanders, and
+thousands of guerrillas, followed him.
+	   A small hardcore group under <ENAMEX TYPE="PERSON">Pol Pot</ENAMEX> continued to hold out at
+their headquarters at <ENAMEX TYPE="GPE">Anlong Veng</ENAMEX> in northern Cambodia near the
+<ENAMEX TYPE="GPE">Thai</ENAMEX> border.
+	   But in June last year, the remaining leadership had a falling
+out, and <ENAMEX TYPE="PERSON">Pol Pot</ENAMEX> was arrested.
+	   In July last year in <ENAMEX TYPE="GPE">Phnom Penh</ENAMEX>, <ENAMEX TYPE="GPE">Cambodia</ENAMEX>'s capital, Second
+Prime Minister <ENAMEX TYPE="PERSON">Hun Sen</ENAMEX> staged a successful coup d'etat against
+First Prime Minister Prince <ENAMEX TYPE="PERSON">Norodom Ranariddh</ENAMEX>. <ENAMEX TYPE="PERSON">Ranariddh</ENAMEX>'s
+loyalists, including <ENAMEX TYPE="PERSON">Nhek Bunchhay</ENAMEX>, his top military commander,
+went into hiding or fled the capital.
+	   <ENAMEX TYPE="PERSON">Nhek Bunchhay</ENAMEX>, evading an intensive manhunt, made his way to
+<ENAMEX TYPE="GPE">O'Smach</ENAMEX>, the last major outpost held by <ENAMEX TYPE="PERSON">Ranariddh</ENAMEX>'s forces. His men
+have held the stronghold _ which is on the border just opposite the
+<ENAMEX TYPE="GPE">Thai</ENAMEX> province of <ENAMEX TYPE="GPE">Surin</ENAMEX> _ against repeated intense attacks by <ENAMEX TYPE="PERSON">Hun
+Sen</ENAMEX>'s troops. They have been aided by <ENAMEX TYPE="ORGANIZATION">Khmer Rouge</ENAMEX> guerrillas from
+<ENAMEX TYPE="GPE">Anlong Veng</ENAMEX>, who have formed an alliance with <ENAMEX TYPE="PERSON">Ranariddh</ENAMEX>'s
+resistance forces to oppose <ENAMEX TYPE="PERSON">Hun Sen</ENAMEX>. 	   
+</TEXT>
+(PROFILE
+(WS SL:BC-Cambodia-Britain-Hostage; CT:i; 
+(REG:ASIA;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-19-98 0802EST
+</TRAILER>
+</DOC>

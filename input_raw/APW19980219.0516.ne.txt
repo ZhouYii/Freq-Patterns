@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> APW19980219.0516 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/19/1998 08:18:00 </DATE_TIME>
+<HEADER>
+w1192 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-Palestinians-Iraq 4thLd-Writethru   02-19 0481
+</HEADER>
+<BODY>
+<SLUG> BC-Palestinians-Iraq, 4th Ld-Writethru </SLUG>
+<HEADLINE>
+Police fire in the air to disperse pro-Iraq march
+</HEADLINE>
+ &UR; Eds: UPDATES with Palestinian police blocking a pro-Iraq rally in
+the West Bank town of Ramallah, in 10th graf &QL; 
+ &UR; By NASSER SHIYOUKHI &QC; 
+ &UR; Associated Press Writer &QC; 
+
+<TEXT>
+	   <ENAMEX TYPE="GPE">DURA</ENAMEX>, <ENAMEX TYPE="LOCATION">West Bank</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="GPE">Israeli</ENAMEX> policemen fired live rounds in
+the air Thursday to disperse hundreds of young Palestinians who
+blocked a major <ENAMEX TYPE="LOCATION">West Bank</ENAMEX> road to show their support for <ENAMEX TYPE="PERSON">Saddam
+Hussein</ENAMEX>.
+	   The confrontation began when elementary and high school students
+marched and burned <ENAMEX TYPE="GPE">Israeli</ENAMEX> and <ENAMEX TYPE="GPE">U.S.</ENAMEX> flags in <ENAMEX TYPE="GPE">Dura</ENAMEX>, a <ENAMEX TYPE="LOCATION">West Bank</ENAMEX> town
+that remains under <ENAMEX TYPE="GPE">Israeli</ENAMEX> security control.
+	   At one point, the marchers blocked the main road running through
+<ENAMEX TYPE="GPE">Dura</ENAMEX> with boulders, and hurled rocks at an <ENAMEX TYPE="GPE">Israeli</ENAMEX> police van and
+settler cars. The four policemen in the van called for backup and
+then fired in the air with pistols and assault rifles.
+	   Three more vans and an <ENAMEX TYPE="GPE">Israeli</ENAMEX> army jeep arrived a few minutes
+later. There were no immediate reports of injury.
+	   After a while, the shooting stopped and <ENAMEX TYPE="GPE">Israeli</ENAMEX> soldiers began
+firing tear gas and rubber bullets at the demonstrators. Troops
+chased stone throwers into the fields. Two Palestinians were
+injured by rubber bullets and six were overcome by tear gas.
+	   The incident marked the most serious confrontation between
+<ENAMEX TYPE="GPE">Israeli</ENAMEX> troops and Palestinians since pro-<ENAMEX TYPE="GPE">Iraq</ENAMEX> demonstrations began
+in the <ENAMEX TYPE="LOCATION">West Bank</ENAMEX> several weeks ago.
+	   The rallies often ended in stone throwing clashes, but until now
+<ENAMEX TYPE="GPE">Israeli</ENAMEX> troops have fired only rubber bullets, not live ammunition.
+The <ENAMEX TYPE="GPE">Palestinian Authority</ENAMEX> has banned pro-<ENAMEX TYPE="GPE">Iraq</ENAMEX> rallies, but that ban
+has been widely ignored.
+	   The <ENAMEX TYPE="GPE">Palestinian Authority</ENAMEX> has also prohibited <ENAMEX TYPE="GPE">Palestinian</ENAMEX> radio
+and television stations from broadcasting commentary in support of
+<ENAMEX TYPE="PERSON">Saddam</ENAMEX> or footage of demonstrations. The ban came under pressure
+from the <ENAMEX TYPE="GPE">United States</ENAMEX>.
+	   <ENAMEX TYPE="GPE">Palestinian</ENAMEX> leader <ENAMEX TYPE="PERSON">Yasser Arafat</ENAMEX>, who paid a heavy price for his
+open support of <ENAMEX TYPE="PERSON">Saddam</ENAMEX> during the 1991 Gulf War, has been carefully
+neutral in his statements, saying he would like to see a diplomatic
+solution to the conflict.
+	   In the <ENAMEX TYPE="LOCATION">West Bank</ENAMEX> town of <ENAMEX TYPE="GPE">Ramallah</ENAMEX>, <ENAMEX TYPE="GPE">Palestinian</ENAMEX> police prevented
+a planned pro-<ENAMEX TYPE="GPE">Iraq</ENAMEX> rally by the <ENAMEX TYPE="ORGANIZATION">Palestinian Professionals' Union</ENAMEX>.
+Police told organizers they would be breaking the law if they went
+ahead and the marchers left quietly.
+	   The march in <ENAMEX TYPE="GPE">Dura</ENAMEX> began Thursday morning with about 800 school
+students waving <ENAMEX TYPE="GPE">Iraqi</ENAMEX> and <ENAMEX TYPE="GPE">Palestinian</ENAMEX> flags and urging <ENAMEX TYPE="PERSON">Saddam
+Hussein</ENAMEX> to fire missiles at <ENAMEX TYPE="GPE">Israel</ENAMEX>.
+	   ``With our spirit and our blood, we will redeem <ENAMEX TYPE="GPE">Iraq</ENAMEX>,'' and
+``<ENAMEX TYPE="PERSON">Saddam</ENAMEX>, <ENAMEX TYPE="PERSON">Saddam</ENAMEX>, our beloved, hit <ENAMEX TYPE="GPE">Tel Aviv</ENAMEX>,'' shouted the about
+800 elementary and high school students.
+	   Demonstrators burned six <ENAMEX TYPE="GPE">Israeli</ENAMEX> and two <ENAMEX TYPE="GPE">U.S</ENAMEX>. flags and several
+held up a banner reading ``Why do the <ENAMEX TYPE="GPE">Iraqi</ENAMEX> people have to pay the
+price for <ENAMEX TYPE="PERSON">Clinton</ENAMEX>'s affairs?''
+</TEXT>
+ &UR; ns/ga-kl
+(PROFILE
+(WS SL:BC-Palestinians-Iraq, 4th Ld-Writethru; CT:i; 
+(REG:MEST;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-19-98 0818EST
+</TRAILER>
+</DOC>
+

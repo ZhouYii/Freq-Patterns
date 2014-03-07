@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> APW19980219.0507 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/19/1998 08:15:00 </DATE_TIME>
+<HEADER>
+w1180 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-SwissBanks-Nazis     02-19 0425
+</HEADER>
+<BODY>
+<SLUG> BC-Swiss Banks-Nazis,0425 </SLUG>
+<HEADLINE>
+Swiss government rejects Jewish refugee's compensation claim
+</HEADLINE>
+
+<TEXT>
+	   <ENAMEX TYPE="GPE">BERN</ENAMEX>, <ENAMEX TYPE="GPE">Switzerland</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ The <ENAMEX TYPE="GPE">Swiss</ENAMEX> government has rejected the
+compensation claim of a World War II Jewish refugee who claimed the
+country was responsible for his parents' deaths, it was announced
+Thursday.
+	   The <ENAMEX TYPE="ORGANIZATION">Federal Department of Finance</ENAMEX> said in a statement that the
+claim filed last year by <ENAMEX TYPE="PERSON">Charles Sonabend</ENAMEX> had no legal ground. The
+demand related to events too far in the past, it said.
+	   <ENAMEX TYPE="PERSON">Sonabend</ENAMEX>, 66, who now lives in <ENAMEX TYPE="GPE">London</ENAMEX>, sought 100,000 <ENAMEX TYPE="GPE">Swiss</ENAMEX>
+francs (dlrs 69,000), saying the <ENAMEX TYPE="GPE">Swiss</ENAMEX> authorities' asylum policy
+led to his parents' deaths.
+	   In 1942, the <ENAMEX TYPE="PERSON">Sonabend</ENAMEX> family fled to neutral <ENAMEX TYPE="GPE">Switzerland</ENAMEX> from
+<ENAMEX TYPE="ORGANIZATION">Nazi</ENAMEX>-occupied <ENAMEX TYPE="GPE">Belgium</ENAMEX>. According to a <ENAMEX TYPE="GPE">Swiss</ENAMEX> television report in
+October, the family was arrested and deported to <ENAMEX TYPE="GPE">France</ENAMEX> two days
+later. <ENAMEX TYPE="PERSON">Sonabend</ENAMEX>'s parents later died at the <ENAMEX TYPE="GPE">Auschwitz</ENAMEX> concentration
+camp.
+	   The department said <ENAMEX TYPE="PERSON">Sonabend</ENAMEX> can appeal to <ENAMEX TYPE="GPE">Switzerland</ENAMEX>'s supreme
+court.
+	   ``The federal authorities, unlike the <ENAMEX TYPE="ORGANIZATION">Nazi</ENAMEX> regime, didn't commit
+war crimes,'' the department said. ``The government expresses its
+deeply felt sympathy and regret, independently of the judicial
+assessment of the request and of the historical evaluation of the
+circumstances.''
+	   <ENAMEX TYPE="PERSON">Sonabend</ENAMEX>'s attorney, <ENAMEX TYPE="PERSON">Marc Richter</ENAMEX>, said in a statement that he
+will appeal. He described as ``cheap'' the government's
+justification for turning down the claim.
+	   Surrounded by <ENAMEX TYPE="GPE">Germany</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Nazi</ENAMEX>-occupied <ENAMEX TYPE="GPE">France</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Nazi</ENAMEX>-allied
+<ENAMEX TYPE="GPE">Italy</ENAMEX>, wartime <ENAMEX TYPE="GPE">Switzerland</ENAMEX> took in nearly 30,000 Jews. But it
+turned away an equal number, many of them to a certain death.
+	   <ENAMEX TYPE="GPE">Switzerland</ENAMEX> has been accused of acting as <ENAMEX TYPE="PERSON">Hitler</ENAMEX>'s banker, and
+its banks has been criticized for dragging their feet over allowing
+Holocaust victims' heirs access to dormant accounts. But it has
+also been praised for its efforts to investigate fully what
+happened and make amends for any wrongdoing.
+	   <ENAMEX TYPE="ORGANIZATION">The committee of independent historians</ENAMEX> set up to investigate
+<ENAMEX TYPE="GPE">Switzerland</ENAMEX>'s wartime past said Thursday that its full report on
+the country's gold transactions with the <ENAMEX TYPE="ORGANIZATION">Nazi</ENAMEX> regime will be
+released April 7.
+	   The panel's preliminary report in December said <ENAMEX TYPE="GPE">Switzerland</ENAMEX> was
+involved in 76 percent of <ENAMEX TYPE="ORGANIZATION">Nazi</ENAMEX> <ENAMEX TYPE="GPE">Germany</ENAMEX>'s gold transactions during
+World War II. It added that <ENAMEX TYPE="GPE">Swiss</ENAMEX> banks handled dlrs 450 million in
+<ENAMEX TYPE="ORGANIZATION">Nazi</ENAMEX> gold _ a portion of which had been looted.
+	   <ENAMEX TYPE="GPE">Switzerland</ENAMEX>'s major banks have set up a fund to help needy
+survivors of the Holocaust, especially those still living in
+<ENAMEX TYPE="GPE">Eastern Europe</ENAMEX>. 	   
+</TEXT>
+(PROFILE
+(WS SL:BC-Swiss Banks-Nazis; CT:i; 
+(REG:MEST;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-19-98 0815EST
+</TRAILER>
+</DOC>
+

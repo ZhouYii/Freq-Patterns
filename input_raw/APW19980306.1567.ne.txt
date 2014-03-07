@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> APW19980306.1567 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/06/1998 21:32:00 </DATE_TIME>
+<HEADER>
+w2884 &Cx1f; wstm-
+r f &Cx13;  &Cx11;  BC-Canada-France-McCain-     03-06 0073
+</HEADER>
+<BODY>
+<SLUG> BC-Canada-France-McCain-Plant,0074 </SLUG>
+<HEADLINE>
+McCain to build French french-fry plant
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">FLORENCEVILLE</ENAMEX>, <ENAMEX TYPE="GPE">New Brunswick</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="ORGANIZATION">McCain Foods</ENAMEX> plans to build
+a major french-fry plant in northeastern <ENAMEX TYPE="LOCATION">France</ENAMEX>.
+The dlrs 84-million plant will be located near <ENAMEX TYPE="GPE">Reims</ENAMEX>, company
+chairman <ENAMEX TYPE="PERSON">Harrison McCain</ENAMEX> said Friday. It will employ about 200
+people.
+<ENAMEX TYPE="PERSON">McCain</ENAMEX> said the plant will help meet increasing demand for
+french fries in southern <ENAMEX TYPE="LOCATION">Europe</ENAMEX>.
+</TEXT>
+(PROFILE
+(WS SL:BC-Canada-France-McCain-Plant; CT:f;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-06-98 2132EST
+</TRAILER>
+</DOC>
+

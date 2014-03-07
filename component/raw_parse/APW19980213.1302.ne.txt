@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> APW19980213.1302 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 14:23:00 </DATE_TIME>
+<HEADER>
+w2105 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-UN-SierraLeone     02-13 0543
+</HEADER>
+<BODY>
+<SLUG> BC-UN-Sierra Leone,0542 </SLUG>
+<HEADLINE>
+Security Council urges Nigerians, others to protect civilians, aid
+</HEADLINE>
+workers &QL;
+&UR; With Sierra Leone &QL;
+&UR; By ROBERT H. REID &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="ORGANIZATION">UNITED NATIONS</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Alarmed over new violence in <ENAMEX TYPE="GPE">Sierra Leone</ENAMEX>,
+the <ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX> appealed Friday to the <ENAMEX TYPE="GPE">Nigerian</ENAMEX>-led <ENAMEX TYPE="GPE">African</ENAMEX>
+intervention force to allow speedy delivery of humanitarian aid now
+that that its troops have captured the <ENAMEX TYPE="GPE">West African</ENAMEX> nation's
+capital.
+The <ENAMEX TYPE="GPE">Nigerian</ENAMEX>-led force launched an attack last week to unseat
+the military junta and restore the country's elected president,
+<ENAMEX TYPE="PERSON">Ahmed Tejan Kabbah</ENAMEX>, who was ousted last May in a bloody coup.
+<ENAMEX TYPE="GPE">Nigerian</ENAMEX>-led troops captured large parts of the center of the
+capital, <ENAMEX TYPE="GPE">Freetown</ENAMEX>, on Thursday. Civilians reportedly celebrated in
+the streets.
+The events in <ENAMEX TYPE="GPE">Sierra Leone</ENAMEX> were deeply embarrassing to the
+council, however. Although the 15 members had called for <ENAMEX TYPE="PERSON">Kabbah</ENAMEX>'s
+restoration, they had never authorized the use of force.
+Instead, the council had endorsed an agreement reached last year
+for a peaceful restoration of the elected government by April 22.
+Foreign ministers of the <ENAMEX TYPE="GPE">West African</ENAMEX> countries involved in the
+peacekeeping force had visited <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> headquarters last week but gave
+no indication they were about to launch a bid to overthrow the
+junta.
+``The <ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX> expressed its concern over the very
+unstable situation in parts of the country and over the heavy
+civilian losses which have been reported,'' council President <ENAMEX TYPE="PERSON">Denis
+Dangue Rewaka</ENAMEX> of <ENAMEX TYPE="GPE">Gabon</ENAMEX> told reporters after a meeting.
+``The <ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX> has emphasized that international
+humanitarian law must be upheld,'' he added. ``The <ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX>
+called for the humanitarian assistance to be activated immediately,
+including cross-border operations, and for full, unrestricted
+access to the people in need.''
+<ENAMEX TYPE="PERSON">Dangue Rewaka</ENAMEX> also said the council urged protection of
+international aid workers and steps to return the country to
+stability. It urged the <ENAMEX TYPE="GPE">Nigerian</ENAMEX>-led force ``to cooperate fully''
+with the <ENAMEX TYPE="ORGANIZATION">United Nations</ENAMEX> ``with the view of rapid evaluation of the
+situation on the ground.''
+<ENAMEX TYPE="PERSON">Dangue Rewaka</ENAMEX> refused to say whether the council felt
+embarrassed by the failure of <ENAMEX TYPE="GPE">West African</ENAMEX> foreign ministers to
+notify them in advance of the campaign.
+But he noted that the council had never authorized the <ENAMEX TYPE="GPE">West
+Africans</ENAMEX> to use force to oust the junta. He acknowledged that the
+council was ``concerned by the use of force.''
+During the meeting, the <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> humanitarian coordinator, <ENAMEX TYPE="PERSON">Sergio de
+Mello</ENAMEX>, said about 250,000 people had been displaced by the
+fighting. <ENAMEX TYPE="PERSON">De Mello</ENAMEX> said the situation was ``dramatic, not only in
+the area of <ENAMEX TYPE="GPE">Freetown</ENAMEX>'' but elsewhere in the country.
+The <ENAMEX TYPE="GPE">West African</ENAMEX> force intervened in <ENAMEX TYPE="GPE">Sierra Leone</ENAMEX> soon after the
+junta led by Maj. <ENAMEX TYPE="PERSON">Johnny Koroma</ENAMEX> toppled <ENAMEX TYPE="PERSON">Kabbah</ENAMEX>. After bombarding
+<ENAMEX TYPE="GPE">Freetown</ENAMEX> in a failed attempt to drive the junta from power, the
+force blockaded <ENAMEX TYPE="GPE">Freetown</ENAMEX>'s port to prevent food, fuel and other
+necessities from reaching the city.
+Despite international criticism of its human-rights record,
+<ENAMEX TYPE="GPE">Nigeria</ENAMEX> _ apparently trying to improve its image and its clout in
+the region _ has become a self-appointed protector of democracy in
+parts of <ENAMEX TYPE="GPE">Africa</ENAMEX>.
+</TEXT>
+(PROFILE
+(WS SL:BC-UN-Sierra Leone; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1423EST
+</TRAILER>
+</DOC>
+

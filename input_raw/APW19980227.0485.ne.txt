@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> APW19980227.0485 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/27/1998 08:06:00 </DATE_TIME>
+<HEADER>
+w2390 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-EU-HumanitarianAid     02-27 0143
+</HEADER>
+<BODY>
+<SLUG> BC-EU-Humanitarian Aid </SLUG>
+<HEADLINE>
+EU clears dlrs 4 million for 9 African nations
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">BRUSSELS</ENAMEX>, <ENAMEX TYPE="GPE">Belgium</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) - The <ENAMEX TYPE="GPE">EU</ENAMEX> on Friday cleared a dlrs 4
+million package for humanitarian projects in <ENAMEX TYPE="GPE">Somalia</ENAMEX>, <ENAMEX TYPE="GPE">Kenya</ENAMEX>,
+<ENAMEX TYPE="GPE">Tanzania</ENAMEX>, <ENAMEX TYPE="GPE">Mozambique</ENAMEX>, <ENAMEX TYPE="GPE">Djibouti</ENAMEX>, <ENAMEX TYPE="GPE">Zanzibar</ENAMEX>, <ENAMEX TYPE="GPE">Uganda</ENAMEX>, <ENAMEX TYPE="GPE">Malawi</ENAMEX> and
+<ENAMEX TYPE="GPE">Madagascar</ENAMEX>.
+It said dlrs 2.2 million will go to <ENAMEX TYPE="GPE">Somalia</ENAMEX> to provide urgently
+needed medical and food aid, the European Commission said in a
+statement.
+In <ENAMEX TYPE="GPE">Kenya</ENAMEX>, <ENAMEX TYPE="GPE">Tanzania</ENAMEX>, <ENAMEX TYPE="GPE">Mozambique</ENAMEX>, <ENAMEX TYPE="GPE">Djibouti</ENAMEX>, <ENAMEX TYPE="GPE">Zanzibar</ENAMEX>, <ENAMEX TYPE="GPE">Uganda</ENAMEX> and
+<ENAMEX TYPE="GPE">Malawi</ENAMEX>, dlrs 1.6 million will help fight a cholera epidemic and
+fund preventive health care measures.
+Another dlrs 110,000 will go to <ENAMEX TYPE="GPE">Madagascar</ENAMEX> which suffers from
+food shortages, cyclones and locust plagues.
+The <ENAMEX TYPE="GPE">EU</ENAMEX> funds will be channeled through humanitarian
+organizations, including <ENAMEX TYPE="ORGANIZATION">Medecins Sans Frontieres</ENAMEX>, the <ENAMEX TYPE="ORGANIZATION">Red Cross</ENAMEX>
+and <ENAMEX TYPE="ORGANIZATION">Unicef</ENAMEX>.
+</TEXT>
+&UR; (as-rw)
+(PROFILE
+(WS SL:BC-EU-Humanitarian Aid; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(REG:AFRI;)
+(REG:MEST;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-27-98 0806EST
+</TRAILER>
+</DOC>
+

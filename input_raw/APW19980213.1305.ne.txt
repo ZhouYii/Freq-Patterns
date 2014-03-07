@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> APW19980213.1305 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 14:24:00 </DATE_TIME>
+<HEADER>
+w2108 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Israel-Iraq 4thLd-Writethru   02-13 0693
+</HEADER>
+<BODY>
+<SLUG> BC-Israel-Iraq, 4th Ld-Writethru,0693 </SLUG>
+<HEADLINE>
+Mordechai: Israel will ask U.S. to delay attack if not prepared
+</HEADLINE>
+&UR; Eds: UPGRADES attribution on planes landing in Israel with
+supplies. UPDATES with quote from military chief. ADDS report of
+arrest of leader organizing pro-Iraq demonstrations by the
+Palestinian police. No pickup &QL;
+&UR; By GWEN ACKERMAN &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">JERUSALEM</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="GPE">Israel</ENAMEX> will ask the <ENAMEX TYPE="GPE">United States</ENAMEX> to delay a
+military strike against <ENAMEX TYPE="GPE">Iraq</ENAMEX> until the Jewish state is fully
+prepared for a possible <ENAMEX TYPE="GPE">Iraqi</ENAMEX> attack with non-conventional weapons,
+the defense minister said in remarks published Friday.
+Also Friday, the <ENAMEX TYPE="GPE">United States</ENAMEX> announced that it sent a team
+from the <ENAMEX TYPE="ORGANIZATION">Center for Disease Control</ENAMEX> to assist the <ENAMEX TYPE="GPE">Palestinian
+Authority</ENAMEX> in assessing its ability to protect its population in the
+event of a biological or chemical weapon attack by <ENAMEX TYPE="GPE">Iraq</ENAMEX>.
+The <ENAMEX TYPE="GPE">U.S.</ENAMEX> ambassador to <ENAMEX TYPE="GPE">Israel</ENAMEX>, <ENAMEX TYPE="PERSON">Edward Walker</ENAMEX>, assured <ENAMEX TYPE="ORGANIZATION">Defense</ENAMEX>
+Minister <ENAMEX TYPE="PERSON">Yitzhak Mordechai</ENAMEX> in a meeting that <ENAMEX TYPE="GPE">Israel</ENAMEX> would have
+enough time to properly prepare.
+<ENAMEX TYPE="GPE">Israel</ENAMEX> is equipping its residents with gas masks and preparing
+kits with antidotes.
+<ENAMEX TYPE="PERSON">Gabi Ofir</ENAMEX>, the commander of <ENAMEX TYPE="GPE">Israel</ENAMEX>'s distribution centers told
+<ENAMEX TYPE="ORGANIZATION">Israel Radio</ENAMEX> that 300,000 gas mask kits have been dispensed to the
+public in the last several weeks.
+<ENAMEX TYPE="GPE">Israel</ENAMEX> has been scrambling to buy more masks abroad. after a
+shortage of several hundred thousand gas masks, including those for
+young children, was discovered.
+<ENAMEX TYPE="GPE">Germany</ENAMEX> has agreed to lend <ENAMEX TYPE="GPE">Israel</ENAMEX> 180,000 protective kits
+against chemical and biological weapons, and <ENAMEX TYPE="GPE">Switzerland</ENAMEX> offered to
+lend <ENAMEX TYPE="GPE">Israel</ENAMEX> another 25,000 masks.
+In <ENAMEX TYPE="GPE">Stockholm</ENAMEX>, the <ENAMEX TYPE="GPE">Swedish</ENAMEX> government announced it has authorized
+the sale of up to 80,000 gas masks for children.
+Government spokesman <ENAMEX TYPE="PERSON">Moshe Fogel</ENAMEX> said <ENAMEX TYPE="GPE">Israel</ENAMEX> appreciated the
+<ENAMEX TYPE="GPE">Swiss</ENAMEX> offer, but would have to determine the masks' compatibility
+to <ENAMEX TYPE="GPE">Israel</ENAMEX>'s needs before accepting.
+Meanwhile, an <ENAMEX TYPE="GPE">Israeli</ENAMEX> delegation traveled Friday to <ENAMEX TYPE="GPE">Oslo</ENAMEX> to
+examine 200,000 gas masks the <ENAMEX TYPE="GPE">Norwegian</ENAMEX> government has offered,
+<ENAMEX TYPE="ORGANIZATION">Israel radio</ENAMEX> said.
+Prime Minister <ENAMEX TYPE="PERSON">Benjamin Netanyahu</ENAMEX> called the prime minister of
+the <ENAMEX TYPE="GPE">Netherlands</ENAMEX> to thank him for thousands of gas masks his country
+has already contributed.
+The <ENAMEX TYPE="ORGANIZATION">Defense Ministry</ENAMEX> said 16 planes have landed so far with
+protective equipment against biological and chemical warfare.
+<ENAMEX TYPE="PERSON">Mordechai</ENAMEX> said all the gas masks from abroad would arrive soon and
+be distributed to the public, adding that additional distribution
+centers would be set up next week.
+``There is no reason why we would not be prepared,'' <ENAMEX TYPE="PERSON">Mordechai</ENAMEX>
+told the <ENAMEX TYPE="ORGANIZATION">Yediot Ahronot daily</ENAMEX>. ``If, in spite of everything, we
+will not be ready, we will ask the <ENAMEX TYPE="GPE">United States</ENAMEX> to delay the
+operation.''
+``There is no certainty that they will do what we ask, but they
+will definitely take into consideration our readiness,'' he added.
+<ENAMEX TYPE="GPE">Israel</ENAMEX>'s armed forces chief, Lt. Gen. <ENAMEX TYPE="PERSON">Amnon Lipkin-Shahak</ENAMEX>,
+appeared on national television Friday night in attempt to reassure
+a jittery public.
+``When events are concrete and actually unfolding, we will
+include the entire population in the measures we decide are
+appropriate to take,'' <ENAMEX TYPE="PERSON">Shahak</ENAMEX> said in an interview with <ENAMEX TYPE="ORGANIZATION">Channel Two
+Television</ENAMEX>.
+<ENAMEX TYPE="GPE">Iraqi</ENAMEX> Deputy Prime Minister <ENAMEX TYPE="PERSON">Tariq Aziz</ENAMEX> said earlier this week
+that <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Baghdad</ENAMEX></ENAMEX> has no intention of attacking <ENAMEX TYPE="GPE">Israel</ENAMEX> even if <ENAMEX TYPE="GPE">Iraq</ENAMEX> is
+targeted by the <ENAMEX TYPE="GPE">United States</ENAMEX>.
+But <ENAMEX TYPE="PERSON">Netanyahu</ENAMEX> said Thursday that he would not rely on <ENAMEX TYPE="GPE">Iraqi</ENAMEX>
+promises when it came to <ENAMEX TYPE="GPE">Israel</ENAMEX>'s security.
+The <ENAMEX TYPE="GPE">United States</ENAMEX> has promised to defend <ENAMEX TYPE="GPE">Israel</ENAMEX>, and the daily
+<ENAMEX TYPE="ORGANIZATION">Maariv</ENAMEX> said Friday that the Americans had agreed to send <ENAMEX TYPE="GPE">Israel</ENAMEX>
+special equipment for detecting chemical or biological weapons.
+<ENAMEX TYPE="GPE">Israeli</ENAMEX> troops will go to the <ENAMEX TYPE="GPE">United States</ENAMEX> next week to train
+with the equipment, <ENAMEX TYPE="ORGANIZATION">Maariv</ENAMEX> added.
+Several pro-<ENAMEX TYPE="GPE">Iraq</ENAMEX> demonstrations have taken place in the last
+week in the <ENAMEX TYPE="LOCATION">Gaza Strip</ENAMEX> and the <ENAMEX TYPE="LOCATION">West Bank</ENAMEX> despite the <ENAMEX TYPE="GPE">Palestinian
+Authority</ENAMEX>'s public opposition to them.
+A spokesman for the <ENAMEX TYPE="ORGANIZATION">Arab Liberation Front</ENAMEX>, a <ENAMEX TYPE="GPE">Palestinian</ENAMEX> group
+that has been organizing pro-<ENAMEX TYPE="GPE">Iraq</ENAMEX> demonstrations, claimed their
+leader was arrested Friday by the <ENAMEX TYPE="GPE">Palestinian</ENAMEX> police in the <ENAMEX TYPE="LOCATION">Gaza
+Strip</ENAMEX>.
+</TEXT>
+(PROFILE
+(WS SL:BC-Israel-Iraq, 4th Ld-Writethru; CT:i;
+(REG:MEST;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:AFRI;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1424EST
+</TRAILER>
+</DOC>
+

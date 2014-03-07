@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> APW19980427.0520 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 04/27/1998 09:06:00 </DATE_TIME>
+<HEADER>
+w1567 &Cx1f; wstm-
+r I &Cx13;  &Cx11;  BC-Turkey-EU-Greece     04-27 0248
+</HEADER>
+<BODY>
+<SLUG> BC-Turkey-EU-Greece </SLUG>
+<HEADLINE>
+Turkey asks EU to keep out of dispute over Aegean islets
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">ANKARA</ENAMEX>, <ENAMEX TYPE="GPE">Turkey</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="GPE">Turkey</ENAMEX> asked the <ENAMEX TYPE="GPE">European Union</ENAMEX> on Monday
+to refrain from approving the inclusion of disputed <ENAMEX TYPE="LOCATION">Aegean</ENAMEX> islets
+into the union's environmental programs by <ENAMEX TYPE="GPE">Greece</ENAMEX>.
+<ENAMEX TYPE="GPE">Turkey</ENAMEX> and <ENAMEX TYPE="GPE">Greece</ENAMEX>, have long running disputes over air, sea and
+seabed mineral rights in the <ENAMEX TYPE="LOCATION">Aegean</ENAMEX> and both lay claims to several
+uninhabited rocky islets.
+``This is a very delicate matter and our call on the <ENAMEX TYPE="GPE">EU</ENAMEX> is to
+use its common sense and not allow itself to be used by <ENAMEX TYPE="GPE">Greece</ENAMEX>,''
+<ENAMEX TYPE="PERSON">Sermet Atacanli</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Foreign Ministry</ENAMEX> spokesman, told a news
+conference.
+The <ENAMEX TYPE="ORGANIZATION">Foreign Ministry</ENAMEX> said <ENAMEX TYPE="GPE">Greece</ENAMEX> has been including the disputed
+<ENAMEX TYPE="LOCATION">Aegean</ENAMEX> islands in <ENAMEX TYPE="GPE">EU</ENAMEX> environmental programs on waste, waste water,
+natural habitats and wild birds.
+<ENAMEX TYPE="PERSON">Atacanli</ENAMEX> did not name any specific island.
+He said there were several islets, rocks in the <ENAMEX TYPE="LOCATION">Aegean Sea</ENAMEX> whose
+sovereignty had not been transferred to <ENAMEX TYPE="GPE">Greece</ENAMEX> by international
+treaties.
+The two countries came close to war in February 1996 over claims
+to rocky islets, called <ENAMEX TYPE="LOCATION">Kardak</ENAMEX> (or <ENAMEX TYPE="LOCATION">Imia</ENAMEX> in Greek). Last-minute
+mediation by the international community deterred armed conflict.
+``This issue must be resolved by talks together,'' <ENAMEX TYPE="PERSON">Atacanli</ENAMEX>
+said. ``<ENAMEX TYPE="GPE">Turkey</ENAMEX> will not accept any unilateral actions that <ENAMEX TYPE="GPE">Greece</ENAMEX>
+would take on these geographical formations.''
+<ENAMEX TYPE="PERSON">Atacanli</ENAMEX> said <ENAMEX TYPE="GPE">Turkey</ENAMEX> has relayed its opposition over the issue
+to the <ENAMEX TYPE="GPE">European Union</ENAMEX>.
+(sf-sh)
+</TEXT>
+(PROFILE
+(WS SL:BC-Turkey-EU-Greece; CT:I;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-04-27-98 0906EDT
+</TRAILER>
+</DOC>
+

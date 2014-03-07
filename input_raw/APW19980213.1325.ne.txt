@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> APW19980213.1325 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 14:36:00 </DATE_TIME>
+<HEADER>
+w2127 &Cx1f; wstm-
+r s &Cx13;  &Cx11;  BC-Sports-Tennis-St.Pete     02-13 0151
+</HEADER>
+<BODY>
+<SLUG> BC-Sports-Tennis-St. Petersburg Open,0153 </SLUG>
+<HEADLINE>
+Krajicek a step closer to St. Petersburg Open win
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">ST. PETERSBURG</ENAMEX>, <ENAMEX TYPE="GPE">Russia</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Top seed <ENAMEX TYPE="PERSON">Richard Krajicek</ENAMEX> of the
+<ENAMEX TYPE="GPE">Netherlands</ENAMEX> downed eighth-seeded <ENAMEX TYPE="GPE">Czech</ENAMEX> <ENAMEX TYPE="PERSON">Daniel Vacek</ENAMEX> in straight
+sets Friday to advance to the semifinals of the St. Petersburg
+Open.
+The 1996 Wimbledon champion beat <ENAMEX TYPE="PERSON">Vacek</ENAMEX> 7-6 (7-4), 6-1.
+Fourth-seeded <ENAMEX TYPE="PERSON">Marc Rosset</ENAMEX> of <ENAMEX TYPE="GPE">Switzerland</ENAMEX> breezed past <ENAMEX TYPE="GPE">Slovakia</ENAMEX>'s
+<ENAMEX TYPE="PERSON">Dominik Hrbaty</ENAMEX>, seeded sixth, 6-4, 6-3 and second seed <ENAMEX TYPE="PERSON">Cedric
+Pioline</ENAMEX> of <ENAMEX TYPE="GPE">France</ENAMEX> outlasted unseeded <ENAMEX TYPE="PERSON">Hendrik Dreekmann</ENAMEX> of <ENAMEX TYPE="GPE">Germany</ENAMEX>
+4-6, 6-3, 7-5.
+<ENAMEX TYPE="PERSON">Thomas Johansson</ENAMEX> of <ENAMEX TYPE="GPE">Sweden</ENAMEX>, who won the 1996 competition who is
+seeded fifth, ousted third-seeded <ENAMEX TYPE="GPE">France</ENAMEX>'s <ENAMEX TYPE="PERSON">Fabrice Santoro</ENAMEX> 6-3,
+6-3. <ENAMEX TYPE="PERSON">Johansson</ENAMEX> goes against <ENAMEX TYPE="PERSON">Krajicek</ENAMEX> in the semifinals.
+In doubles, <ENAMEX TYPE="GPE">South Africans</ENAMEX> <ENAMEX TYPE="PERSON">Marius Barnard</ENAMEX> and <ENAMEX TYPE="PERSON">Brent Haygarth</ENAMEX>
+beat fellow countrymen <ENAMEX TYPE="PERSON">John-Laffnie Dejager</ENAMEX> and <ENAMEX TYPE="PERSON">Robbie Koenig</ENAMEX> 6-3,
+6-4.
+</TEXT>
+(PROFILE
+(WS SL:BC-Sports-Tennis-St. Petersburg Open; CT:s;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1436EST
+</TRAILER>
+</DOC>
+

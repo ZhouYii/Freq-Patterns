@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> APW19980227.0488 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/27/1998 08:10:00 </DATE_TIME>
+<HEADER>
+w2393 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Spain-Accident     02-27 0160
+</HEADER>
+<BODY>
+<SLUG> BC-Spain-Accident </SLUG>
+<HEADLINE>
+British man dies with four Spaniards in traffic accident
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">SEVILLE</ENAMEX>, <ENAMEX TYPE="GPE">Spain</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ A <ENAMEX TYPE="GPE">British</ENAMEX> man was among five people killed
+in a car crash on the main road connecting the southern <ENAMEX TYPE="GPE">Spanish</ENAMEX>
+cities of <ENAMEX TYPE="GPE">Seville</ENAMEX> and <ENAMEX TYPE="GPE">Malaga</ENAMEX>, police said Friday.
+Police identified the dead Britain only by the initials <ENAMEX TYPE="PERSON">R.D.F.P</ENAMEX>,
+but news reports said his full name was <ENAMEX TYPE="PERSON">Roy Dermott Fitzpatrick</ENAMEX>,
+originally from <ENAMEX TYPE="GPE">Ashby-de-la-Zouch</ENAMEX> in <ENAMEX TYPE="GPE">Leicestershire</ENAMEX> and a resident
+of the <ENAMEX TYPE="LOCATION">Balearic Islands</ENAMEX> off the eastern <ENAMEX TYPE="GPE">Spanish</ENAMEX> mainland.
+Police said the 31-year-old Britain died late Thursday along
+with three Spaniards, two women and one man, when their Ford Escort
+was collided into by an Opel Astra driven by a <ENAMEX TYPE="GPE">Spanish</ENAMEX> male who
+also died.
+The authorities have yet to determine whether the five victims
+died instantaneously in the crash or in the flames that enveloped
+the two vehicles shortly afterwards, police said.
+(jt)
+</TEXT>
+(PROFILE
+(WS SL:BC-Spain-Accident; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-27-98 0810EST
+</TRAILER>
+</DOC>
+

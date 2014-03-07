@@ -1,0 +1,73 @@
+<DOC>
+<DOCNO> APW19980219.0499 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/19/1998 08:11:00 </DATE_TIME>
+<HEADER>
+w1174 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Denmark-Elections     02-19 0418
+</HEADER>
+<BODY>
+<SLUG> BC-Denmark-Elections </SLUG>
+<HEADLINE>
+Prime minister calls March 11 general elections
+</HEADLINE>
+
+<TEXT>
+	   <ENAMEX TYPE="GPE">COPENHAGEN</ENAMEX>, <ENAMEX TYPE="GPE">Denmark</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Prime Minister <ENAMEX TYPE="PERSON">Poul Nyrup Rasmussen</ENAMEX>
+on Thursday made a suprise announcement of national elections to be
+held March 11.
+	   Although elections were required to be held by September, most
+had expected they would be delayed until after the May 28
+plebiscite on the <ENAMEX TYPE="ORGANIZATION">European Union</ENAMEX>'s latest treaty.
+	   <ENAMEX TYPE="PERSON">Nyrup Rasmussen</ENAMEX> interrupted an ordinary parliament session to
+announce the elections, saying ``big and important decisions lie
+ahead,'' a clear reference to the plebiscite.
+	   <ENAMEX TYPE="GPE">Danes</ENAMEX> are known for their lukewarm attitude about <ENAMEX TYPE="ORGANIZATION">EU</ENAMEX> membership
+and many are concerned that accepting the latest <ENAMEX TYPE="ORGANIZATION">EU</ENAMEX> treaty would
+require <ENAMEX TYPE="GPE">Denmark</ENAMEX> to give up too much sovereignty.
+	   <ENAMEX TYPE="PERSON">Nyrup Rasmussen</ENAMEX> said another major topic was to lower the total
+government debt of 711.6 billion kroner (dlrs 104.6 4 billion).
+	   The government coalition including <ENAMEX TYPE="PERSON">Nyrup Rasmussen</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Social
+Democratic Party</ENAMEX> and the small center <ENAMEX TYPE="ORGANIZATION">Radical Party</ENAMEX> did not resign.
+The two groups hold 70 of parliament's 179 seats _ 20 short of the
+90 required for majority.
+	   <ENAMEX TYPE="ORGANIZATION">Radical Party</ENAMEX> leader <ENAMEX TYPE="PERSON">Marianne Jelved</ENAMEX> told reporters the purpose
+of the elections was to ask for voters' support to continue the
+government's policy to ``enable us to continue into the next
+century.''
+	   ``<ENAMEX TYPE="GPE">Denmark</ENAMEX> today has a stronger economy, a better employment
+policy and a more equitable distribution of the benefits than most
+other countries in <ENAMEX TYPE="GPE">Europe</ENAMEX>,'' <ENAMEX TYPE="PERSON">Nyrup Rasmussen</ENAMEX> said.
+	   Unemployment is at 7.4 percent of the labor force _ one of the
+lowest in <ENAMEX TYPE="GPE">Europe</ENAMEX> _ and the 1997 growth was of 2.2 percent.
+	   <ENAMEX TYPE="PERSON">Nyrup Rasmussen</ENAMEX> became prime minister in 1993, after a decade
+with <ENAMEX TYPE="ORGANIZATION">Conservative</ENAMEX>-<ENAMEX TYPE="ORGANIZATION">Liberal</ENAMEX> governments. His first four-party Cabinet
+controlled 90 parliamentary seats and became the first majority
+government in more than 20 years.
+	   Since then, two parties dropped out, making it a minority
+government whose parliamentary survival was assured by a small
+center party and two left-wing groups.
+	   The prime minister said he would ``be a beast if I didn't say
+'yes of course''' about calling the elections now that the
+<ENAMEX TYPE="ORGANIZATION">Liberal</ENAMEX>-<ENAMEX TYPE="ORGANIZATION">Conservative</ENAMEX> opposition is weak.
+	   The Conservatives have been divided by internal fights in almost
+a year, while their <ENAMEX TYPE="ORGANIZATION">Liberal</ENAMEX> ally has dived slightly in recent
+polls.
+	   A recent opinion poll indicated the <ENAMEX TYPE="ORGANIZATION">Social Democrats</ENAMEX> would win
+only 56 parliamentary seats _ six less than they currently holds
+	   (jo-jh)
+</TEXT>
+(PROFILE
+(WS SL:BC-Denmark-Elections; CT:i; 
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-19-98 0811EST
+</TRAILER>
+</DOC>
+

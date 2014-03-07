@@ -1,0 +1,80 @@
+<DOC>
+<DOCNO> APW19980227.0498 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/27/1998 08:21:00 </DATE_TIME>
+<HEADER>
+w2403 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Thailand-Burma-Milita     02-27 0459
+</HEADER>
+<BODY>
+<SLUG> BC-Thailand-Burma-Military </SLUG>
+<HEADLINE>
+Burmese troops chasing rebels reported on Thai soil
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">CHIANG MAI</ENAMEX>, <ENAMEX TYPE="GPE">Thailand</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ The <ENAMEX TYPE="GPE">Thai</ENAMEX> army is in a standoff
+against more than 500 <ENAMEX TYPE="GPE">Burmese</ENAMEX> government troops who crossed into
+northern <ENAMEX TYPE="LOCATION">Thailand</ENAMEX> in pursuit of ethnic insurgents and have refused
+to retreat, a <ENAMEX TYPE="GPE">Thai</ENAMEX> border official said Friday.
+The official, speaking on condition of anonymity, claimed the
+<ENAMEX TYPE="GPE">Burmese</ENAMEX> troops are holding their ground about five kilometers
+(three miles) inside <ENAMEX TYPE="GPE">Thailand</ENAMEX> at the Tong Na <ENAMEX TYPE="GPE">village</ENAMEX> in <ENAMEX TYPE="GPE">Pang Ma Pa
+district</ENAMEX> of <ENAMEX TYPE="GPE">Mae Hong Son province</ENAMEX>.
+The Burmese are claiming the right to be there on the basis that
+the area has yet to be demarcated, he said. He said about 100 of
+the <ENAMEX TYPE="GPE">Burmese</ENAMEX> troops have been on <ENAMEX TYPE="GPE">Thai</ENAMEX> soil since Tuesday and 400
+more troops have crossed over to <ENAMEX TYPE="GPE">Thailand</ENAMEX> since then.
+A <ENAMEX TYPE="GPE">Thai</ENAMEX> army official in the area, however, dismissed the
+incident as ``minor,'' insisting that only several dozen <ENAMEX TYPE="GPE">Burmese</ENAMEX>
+troops had ``accidentally'' crossed over on Wednesday but that <ENAMEX TYPE="GPE">Thai</ENAMEX>
+soldiers had pushed them back.
+He said he had sent more troops to monitor the situation, as
+requested by provincial authorities, and insisted that everything
+was under control.
+<ENAMEX TYPE="GPE">Thai</ENAMEX> officials often downplay incidents of border tension to
+avoid diplomatic wrangles with <ENAMEX TYPE="GPE">Burma</ENAMEX>.
+Although <ENAMEX TYPE="GPE">Thai</ENAMEX>-<ENAMEX TYPE="GPE">Burmese</ENAMEX> relations are generally good, disputes
+over the demarcation of the border, as well as the presence of
+<ENAMEX TYPE="GPE">Burmese</ENAMEX> ethnic minority guerrillas, has led to a number of
+confrontations.
+The border official said the <ENAMEX TYPE="GPE">Burmese</ENAMEX> troops were planning to
+attack guerrillas of the <ENAMEX TYPE="ORGANIZATION">Shan State Army</ENAMEX> troops from <ENAMEX TYPE="GPE">Thai</ENAMEX> territory
+and forced civilian refugees, who are about two kilometers (one
+mile) from the border, to return to <ENAMEX TYPE="GPE">Burma</ENAMEX>.
+He said the <ENAMEX TYPE="GPE">Thai</ENAMEX> army had requested help from border patrol
+police and some paramilitary <ENAMEX TYPE="ORGANIZATION">Ranger</ENAMEX> units, who arrived in the area
+with mortars and machine guns. Several helicopters have been
+requested as well, he said.
+Fighting between government troops and the <ENAMEX TYPE="ORGANIZATION">Shan State Army</ENAMEX> broke
+out about a week ago inside <ENAMEX TYPE="GPE">Burma</ENAMEX> near the city of <ENAMEX TYPE="GPE">Homong</ENAMEX>, the
+former headquarters of opium warlord <ENAMEX TYPE="PERSON">Khun Sa</ENAMEX>. <ENAMEX TYPE="PERSON">Khun Sa</ENAMEX>, also known
+as <ENAMEX TYPE="PERSON">Chang Qifu</ENAMEX>, surrendered to the <ENAMEX TYPE="GPE">Burmese</ENAMEX> government in 1996 and is
+now thought to be living in <ENAMEX TYPE="GPE">Rangoon</ENAMEX>.
+When <ENAMEX TYPE="PERSON">Khun Sa</ENAMEX> surrendered, <ENAMEX TYPE="GPE">Burma</ENAMEX>'s military government said most
+of his 10-15,000 ethnic Shan troops had laid down their arms and
+the area was under government control.
+But recently, three separate Shan rebel armies announced they
+were joining forces to continue the war against the <ENAMEX TYPE="GPE">Burmese</ENAMEX> regime.
+The renewed guerrilla war has been a setback for the military
+government in <ENAMEX TYPE="GPE">Rangoon</ENAMEX>, which has touted ceasefires with many ethnic
+insurgent groups as one of its accomplishments.
+</TEXT>
+(PROFILE
+(WS SL:BC-Thailand-Burma-Military; CT:i;
+(REG:ASIA;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-27-98 0821EST
+</TRAILER>
+</DOC>
+

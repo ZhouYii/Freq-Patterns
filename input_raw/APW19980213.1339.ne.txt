@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> APW19980213.1339 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 14:43:00 </DATE_TIME>
+<HEADER>
+w2141 &Cx1f; wstm-
+r s &Cx13;  &Cx11;  BC-Sports-Tennis-DavisCu 1stLd-Writethru   02-13 0160
+</HEADER>
+<BODY>
+<SLUG> BC-Sports-Tennis-Davis Cup-Argentina-Colombia, 1st </SLUG>
+<HEADLINE>
+Ld-Writethru,0170
+</HEADLINE>
+&UR; Argentina leads Colombia 2-0 in Davis Cup play &QL;
+&UR; Eds: UPDATES with second match, details. &QL;
+
+<TEXT>
+<ENAMEX TYPE="GPE">BUENOS AIRES</ENAMEX>, <ENAMEX TYPE="GPE">Argentina</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="PERSON">Franco Squillari</ENAMEX> defeated <ENAMEX TYPE="PERSON">Miguel
+Tobon</ENAMEX> 6-2, 6-1, 6-1 on Friday as <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Argentina</ENAMEX></ENAMEX> took a 2-0 lead over
+<ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Colombia</ENAMEX></ENAMEX> in the first day of Davis Cup competition.
+In the opening match, <ENAMEX TYPE="PERSON">Lucas Arnold</ENAMEX> easily beat <ENAMEX TYPE="PERSON">Mario Rincon</ENAMEX> 6-0,
+6-2, 6-2 in Group One of the American Zone. <ENAMEX TYPE="PERSON">Arnold</ENAMEX>, <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Argentina</ENAMEX></ENAMEX>'s
+third-ranking player, needed little more than 1 and 1/2 hours to
+finish off <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Colombia</ENAMEX></ENAMEX>'s top player.
+The competition continues through Sunday at the <ENAMEX TYPE="FACILITY">Mayling Club de
+Campo</ENAMEX>, 40 miles (60 kms) north of <ENAMEX TYPE="GPE">Buenos Aires</ENAMEX>.
+<ENAMEX TYPE="PERSON">Lucas Arnold</ENAMEX> and <ENAMEX TYPE="PERSON">Luris Lobo</ENAMEX>, both of <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Argentina</ENAMEX></ENAMEX>, will face <ENAMEX TYPE="PERSON">Miguel
+Tobon</ENAMEX> and <ENAMEX TYPE="PERSON">Philippe Moggio</ENAMEX> in doubles play on Saturday.
+If victorious, <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Argentina</ENAMEX></ENAMEX> will play <ENAMEX TYPE="GPE"><ENAMEX TYPE="ORGANIZATION">Chile</ENAMEX></ENAMEX> _ whose team includes
+recent Australian Open finalist, <ENAMEX TYPE="PERSON">Marcelo Rios</ENAMEX> _ in April.
+</TEXT>
+(PROFILE
+(WS SL:BC-Sports-Tennis-Davis Cup-Argentina-Colombia, 1st Ld-Writethru; CT:s;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1443EST
+</TRAILER>
+</DOC>
+
+

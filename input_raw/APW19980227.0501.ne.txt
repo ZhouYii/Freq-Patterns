@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> APW19980227.0501 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/27/1998 08:23:00 </DATE_TIME>
+<HEADER>
+w2406 &Cx1f; wstm-
+r I &Cx13;  &Cx11;  BC-Turkey-Attack 3rdLd-Writethru   02-27 0186
+</HEADER>
+<BODY>
+<SLUG> BC-Turkey-Attack, 3rd Ld-Writethru </SLUG>
+<HEADLINE>
+Gunmen wound 16 Turkish soldiers in raid
+</HEADLINE>
+&UR; Eds: UPDATES with claim of responsibility &QL;
+
+<TEXT>
+<ENAMEX TYPE="GPE">ISTANBUL</ENAMEX>, <ENAMEX TYPE="GPE">Turkey</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Three gunmen tossed two hand grenades
+into the garden of a military outpost during a roll-call in
+<ENAMEX TYPE="GPE">Istanbul</ENAMEX> on Friday after opening fire on a sentry, wounding 16
+soldiers, reports said.
+Leftist and Kurdish guerrilla groups phoning several media
+organizations in <ENAMEX TYPE="GPE">Istanbul</ENAMEX> claimed responsibility for the assault.
+The attack appeared to be the latest example of the
+collaboration between the leftist <ENAMEX TYPE="ORGANIZATION">Revolutionary People's Salvation
+Party-Front</ENAMEX> and Kurdish guerrillas, who are fighting for autonomy
+in <ENAMEX TYPE="GPE">Turkey</ENAMEX>'s southeast.
+The <ENAMEX TYPE="ORGANIZATION">Anatolia news agency</ENAMEX> said the attackers fled the scene by a
+car immediately after the attack at around 8 a.m. (0600 GMT) in
+<ENAMEX TYPE="GPE">Gaziosmanpasa district</ENAMEX>, on the outskirts of <ENAMEX TYPE="GPE">Istanbul</ENAMEX>.
+The injured, including an officer, were in stable condition,
+private <ENAMEX TYPE="ORGANIZATION">NTV</ENAMEX> television said.
+The war between Kurdish guerrillas and government forces in
+southeastern <ENAMEX TYPE="LOCATION">Turkey</ENAMEX> has killed 37,000 people since 1984.
+(sh/vls)
+</TEXT>
+(PROFILE
+(WS SL:BC-Turkey-Attack, 3rd Ld-Writethru; CT:I;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-27-98 0823EST
+</TRAILER>
+</DOC>
+

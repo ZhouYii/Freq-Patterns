@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> APW19980219.0483 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/19/1998 08:04:00 </DATE_TIME>
+<HEADER>
+w1158 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-France-UN-Iraq     02-19 0266
+</HEADER>
+<BODY>
+<SLUG> BC-France-UN-Iraq </SLUG>
+<HEADLINE>
+France optimistic about Annan mission to Baghdad
+</HEADLINE>
+ &UR; AP Photos Planned &QL; 
+
+<TEXT>
+	   <ENAMEX TYPE="GPE">PARIS</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="GPE">France</ENAMEX> expressed optimism Thursday about <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX>
+Secretary General <ENAMEX TYPE="PERSON">Kofi Annan</ENAMEX>'s visit to <ENAMEX TYPE="GPE">Baghdad</ENAMEX>, with the <ENAMEX TYPE="ORGANIZATION">Foreign
+Ministry</ENAMEX> saying a diplomatic solution was still possible.
+	   <ENAMEX TYPE="PERSON">Annan</ENAMEX> is expected to arrive in <ENAMEX TYPE="GPE">Paris</ENAMEX> early Thursday evening for
+meetings with <ENAMEX TYPE="GPE">French</ENAMEX> President <ENAMEX TYPE="PERSON">Jacques Chirac</ENAMEX> and Foreign Minister
+<ENAMEX TYPE="PERSON">Hubert Vedrine</ENAMEX> before leaving for <ENAMEX TYPE="GPE">Iraq</ENAMEX> on Friday morning.
+	   ``We will reiterate our support for the Secretary General's
+mission, which should lead to a diplomatic solution of the
+crisis,'' <ENAMEX TYPE="GPE">French</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Foreign Ministry</ENAMEX> spokesman <ENAMEX TYPE="PERSON">Yves Doutriaux</ENAMEX> told a
+regular news briefing Thursday.
+	   <ENAMEX TYPE="GPE">France</ENAMEX> has cautioned the <ENAMEX TYPE="GPE">United States</ENAMEX> against leading a
+military strike against <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Baghdad</ENAMEX></ENAMEX> in the belief that <ENAMEX TYPE="PERSON">Saddam Hussein</ENAMEX>
+may still back down and agree to unrestricted access for <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX>
+weapons inspectors to all sites.
+	   <ENAMEX TYPE="PERSON">Chirac</ENAMEX> was expected to stress to <ENAMEX TYPE="PERSON">Annan</ENAMEX> that <ENAMEX TYPE="GPE">France</ENAMEX> wants a
+peaceful solution to the crisis. Unlike <ENAMEX TYPE="GPE">Britain</ENAMEX>, <ENAMEX TYPE="GPE">France</ENAMEX> has not
+contributed to a buildup of Western forces in the <ENAMEX TYPE="GPE">Persian Gulf</ENAMEX>.
+	   <ENAMEX TYPE="GPE">France</ENAMEX>'s interior minister, an outspoken critic of <ENAMEX TYPE="GPE">U.S.</ENAMEX> policy
+in the Gulf, has criticized what he called ``<ENAMEX TYPE="GPE">American</ENAMEX> diplomacy's
+will for war'' and said the <ENAMEX TYPE="GPE">United States</ENAMEX> should have shown such
+resolve during World War II.
+	   Under <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> resolutions following the 1991 Gulf War that followed
+<ENAMEX TYPE="GPE">Iraq</ENAMEX>'s invasion of <ENAMEX TYPE="GPE">Kuwait</ENAMEX>, <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Baghdad</ENAMEX></ENAMEX> must destroy its biological,
+chemical and nuclear weapons programs before a <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> trade embargo
+can be lifted.
+	   (parf-dgs) 	   
+</TEXT>
+(PROFILE
+(WS SL:BC-France-UN-Iraq; CT:i; 
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-19-98 0804EST
+</TRAILER>
+</DOC>
+

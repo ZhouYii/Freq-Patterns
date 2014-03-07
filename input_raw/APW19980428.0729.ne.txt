@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> APW19980428.0729 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 04/28/1998 10:48:00 </DATE_TIME>
+<HEADER>
+w1672 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-EU-CreditLyonnais     04-28 0337
+</HEADER>
+<BODY>
+<SLUG> BC-EU-Credit Lyonnais </SLUG>
+<HEADLINE>
+Credit Lyonnais workers protest against EU demands
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">BRUSSELS</ENAMEX>, <ENAMEX TYPE="GPE">Belgium</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) - Some 2,500 <ENAMEX TYPE="ORGANIZATION">Credit Lyonnais</ENAMEX> employees
+demonstrated Tuesday outside <ENAMEX TYPE="GPE">European Union</ENAMEX> headquarters to protest
+against conditions the <ENAMEX TYPE="GPE">EU</ENAMEX> wants to impose on <ENAMEX TYPE="GPE">French</ENAMEX> government
+subsidies to the troubled state bank.
+Union representatives met with officials of the <ENAMEX TYPE="ORGANIZATION">EU Commission</ENAMEX>.
+After several hours, they walked out saying talks had been
+completely unproductive.
+``The Commission won't budge,'' said <ENAMEX TYPE="PERSON">Georges Begot</ENAMEX> of the <ENAMEX TYPE="ORGANIZATION">CFDT</ENAMEX>
+union. ``There is still some room for negotiation but it seems very
+limited.''
+The Commission has powers to veto or impose conditions on
+government subsidies if it judges they distort fair competition
+within the 15-nation bloc.
+The <ENAMEX TYPE="GPE">EU</ENAMEX> executive wants <ENAMEX TYPE="ORGANIZATION">Credit Lyonnais</ENAMEX> to sell off all <ENAMEX TYPE="GPE">European</ENAMEX>
+assets outside <ENAMEX TYPE="GPE">France</ENAMEX> and reduce its <ENAMEX TYPE="GPE">French</ENAMEX> network. The Commission
+says the <ENAMEX TYPE="GPE">French</ENAMEX> government should sell the bank to the best bidder
+by the end of 1999.
+The <ENAMEX TYPE="GPE">French</ENAMEX> government and the <ENAMEX TYPE="GPE">EU</ENAMEX> have been battling for years
+over billions of francs (dollars) aid given to <ENAMEX TYPE="ORGANIZATION">Credit Lyonnais</ENAMEX>
+since the bank incurred heavy losses in the 1980s.
+Last month, the bank reported net profits of 1.1 billion <ENAMEX TYPE="GPE">French</ENAMEX>
+francs (dlrs 180 million) in 1997. But the <ENAMEX TYPE="GPE">EU</ENAMEX>'s top competition
+watchdog, <ENAMEX TYPE="PERSON">Karel Van Miert</ENAMEX>, said the results contained an illegal
+government subsidy of more than 3 billion francs (dlrs 490
+million.)
+<ENAMEX TYPE="GPE">French</ENAMEX> Finance Minister <ENAMEX TYPE="PERSON">Dominique Strauss-Kahn</ENAMEX> said last week
+<ENAMEX TYPE="GPE">France</ENAMEX> will sell <ENAMEX TYPE="ORGANIZATION">Credit Lyonnais</ENAMEX> by the end of next year.
+<ENAMEX TYPE="ORGANIZATION">Credit Lyonnais</ENAMEX> has shed several thousand jobs over the past 10
+years, but still employs 32,000 people. The protesters blamed job
+losses on <ENAMEX TYPE="GPE">EU</ENAMEX> interference.
+``<ENAMEX TYPE="GPE">France</ENAMEX> is paying (for the bank). Why does the <ENAMEX TYPE="GPE">EU</ENAMEX> have to
+interfere?'' said <ENAMEX TYPE="PERSON">Marie-Claude Latte</ENAMEX>, who has worked at <ENAMEX TYPE="ORGANIZATION">Credit
+Lyonnais</ENAMEX> for 28 years.
+``We've made sacrifices: we've had to accept longer working
+hours and less money,'' she added, waving one of her paychecks.
+</TEXT>
+&UR; (as-pa)
+(PROFILE
+(WS SL:BC-EU-Credit Lyonnais; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-04-28-98 1048EDT
+</TRAILER>
+</DOC>
+

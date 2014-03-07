@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> APW19980304.0327 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/04/1998 06:41:00 </DATE_TIME>
+<HEADER>
+w1676 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Pakistan-Execution     03-04 0145
+</HEADER>
+<BODY>
+<SLUG> BC-Pakistan-Execution,0144 </SLUG>
+<HEADLINE>
+Man hanged in eastern Pakistan for double murder
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">LAHORE</ENAMEX>, <ENAMEX TYPE="GPE">Pakistan</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="PERSON">Maqsood Kalia</ENAMEX>, whose murder convictions
+were questioned by <ENAMEX TYPE="GPE">Lahore</ENAMEX>'s police chief, was hanged Wednesday in
+the <ENAMEX TYPE="GPE">Punjab</ENAMEX> capital of <ENAMEX TYPE="GPE">Lahore</ENAMEX>.
+The <ENAMEX TYPE="ORGANIZATION">Lahore High Court</ENAMEX> sentenced <ENAMEX TYPE="PERSON">Kalia</ENAMEX> to death last year for the
+shooting deaths of two people in 1996.
+<ENAMEX TYPE="PERSON">Kalia</ENAMEX> appealed the verdict, and during the second trial <ENAMEX TYPE="GPE">Lahore</ENAMEX>
+Police Chief <ENAMEX TYPE="PERSON">Mubasher Ahmed</ENAMEX> testified that he believed <ENAMEX TYPE="PERSON">Kalia</ENAMEX> was
+innocent. The court rejected <ENAMEX TYPE="PERSON">Ahmed</ENAMEX>'s testimony, saying the police
+chief had no evidence to back his claim.
+President <ENAMEX TYPE="PERSON">Rafiq Tarar</ENAMEX> on Tuesday rejected an appeal for clemency
+filed by <ENAMEX TYPE="PERSON">Kalia</ENAMEX>'s mother, authorities said.
+<ENAMEX TYPE="PERSON">Kalia</ENAMEX> was hanged inside <ENAMEX TYPE="GPE">Lahore</ENAMEX>'s <ENAMEX TYPE="FACILITY">Kot Lakbhat Jail</ENAMEX>, prison
+officials said. His body was later given to his family, who waited
+outside the prison compound.
+</TEXT>
+(PROFILE
+(WS SL:BC-Pakistan-Execution; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-04-98 0641EST
+</TRAILER>
+</DOC>
+

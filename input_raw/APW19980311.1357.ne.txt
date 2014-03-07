@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> APW19980311.1357 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/11/1998 15:02:00 </DATE_TIME>
+<HEADER>
+w2104 &Cx1f; wstm-
+r s &Cx13;  &Cx11;  BC-Sports-Cycling-Tirren 1stLd-Writethru   03-11 0307
+</HEADER>
+<BODY>
+<SLUG> BC-Sports-Cycling-Tirreno-Adriatico, 1st Ld-Writethru,0306 </SLUG>
+<HEADLINE>
+Italian wins opening stage; Ullrich withdraws
+</HEADLINE>
+&UR; EDS: CORRECTS mileage conversions. &QL;
+
+<TEXT>
+<ENAMEX TYPE="GPE">SORRENTO</ENAMEX>, <ENAMEX TYPE="GPE">Italy</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ The season debut of Tour of France winner
+<ENAMEX TYPE="PERSON">Jan Ullrich</ENAMEX> was short-lived Wednesday as the flu-weakened German
+withdrew during the opening stage of the Tirreno-Adriatico race.
+<ENAMEX TYPE="PERSON">Ullrich</ENAMEX>, who stopped pedaling one hour into the race, said he
+was confident he would recover his health and form by the start of
+the Milan-to-San Remo classic _ the first race of the 1998 World
+Cup scheduled along the <ENAMEX TYPE="LOCATION">Italian Riviera</ENAMEX> on March 21.
+Young <ENAMEX TYPE="GPE">Italian</ENAMEX> <ENAMEX TYPE="PERSON">Gabriele Balducci</ENAMEX> took the first of eight stages
+of the Tirreno-Adriatico _ a 133-kilometer (83-mile) circuit around
+<ENAMEX TYPE="GPE">Sorrento</ENAMEX> _ outsprinting the pack at the finish line.
+A five-second bonus from the stage victory also gave <ENAMEX TYPE="PERSON">Balducci</ENAMEX>
+the overall leadership. Despite the double victory, the Italian was
+unhappy with narrow roads and slippery asphalt, and had a public
+argument with the race organizers.
+The stage was marred by several spills. The most serious, in the
+final kilometers, sent <ENAMEX TYPE="GPE">Italian</ENAMEX> cyclist <ENAMEX TYPE="PERSON">Paolo Bettini</ENAMEX> to the
+hospital with several bruises and a cut lip.
+``The course was dangerous and risky. Let's hope the next stages
+are scheduled on safer roads,'' <ENAMEX TYPE="PERSON">Balducci</ENAMEX> said.
+<ENAMEX TYPE="PERSON">Balducci</ENAMEX>, who completed the stage in three hours, 27.55 minutes,
+edged <ENAMEX TYPE="GPE">Denmark</ENAMEX>'s <ENAMEX TYPE="PERSON">Lars Michaelsen</ENAMEX> at the finish line. Another Dane,
+veteran <ENAMEX TYPE="PERSON">Rolf Sorensen</ENAMEX>, placed fourth, behind <ENAMEX TYPE="GPE">Italy</ENAMEX>'s <ENAMEX TYPE="PERSON">Roberto
+Petito</ENAMEX>.
+Thursday's second stage of 164 kilometers (103 miles) will take
+cyclists from <ENAMEX TYPE="GPE">Sorrento</ENAMEX> to <ENAMEX TYPE="GPE">Baia Domizia</ENAMEX>.
+The Tirreno-Adriatico, the opening event of the <ENAMEX TYPE="GPE">Italian</ENAMEX> cycling
+season which is considered a warmup for the Milan-to-San Remo,
+crosses central <ENAMEX TYPE="LOCATION">Italy</ENAMEX> from the <ENAMEX TYPE="LOCATION">Tyrrhenian</ENAMEX> to the <ENAMEX TYPE="LOCATION">Adriatic sea</ENAMEX>.
+</TEXT>
+(PROFILE
+(WS SL:BC-Sports-Cycling-Tirreno-Adriatico, 1st Ld-Writethru; CT:s;
+(REG:MEST;)
+(REG:ENGL;)
+(REG:AFRI;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-11-98 1502EST
+</TRAILER>
+</DOC>
+

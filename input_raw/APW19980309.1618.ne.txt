@@ -1,0 +1,70 @@
+<DOC>
+<DOCNO> APW19980309.1618 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/09/1998 22:45:00 </DATE_TIME>
+<HEADER>
+w2844 &Cx1f; wstm-
+r s &Cx13;  &Cx11;  BC-Sports-DogSledRacing-     03-09 0318
+</HEADER>
+<BODY>
+<SLUG> BC-Sports-Dog Sled Racing-Iditarod,0322 </SLUG>
+<HEADLINE>
+Swenson leads Iditarod mushers into Rainy Pass
+</HEADLINE>
+&UR; Eds: RECAPS previous to update with Swenson leading &QL;
+&UR; AP Photos &QL;
+&UR; By ROSANNE PAGANO &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">RAINY PASS</ENAMEX>, <ENAMEX TYPE="GPE">Alaska</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Five-time champion <ENAMEX TYPE="PERSON">Rick Swenson</ENAMEX> wasted
+no time moving to the front of the pack in the Iditarod Trail Sled
+Dog Race.
+<ENAMEX TYPE="PERSON">Swenson</ENAMEX> on Monday was the first musher to reach the <ENAMEX TYPE="GPE">Rainy Pass</ENAMEX>
+checkpoint, which is tucked deep in the <ENAMEX TYPE="LOCATION">Alaska Range</ENAMEX>. He arrived 90
+minutes ahead of his nearest competitor, <ENAMEX TYPE="PERSON">Charlie Boulding</ENAMEX> of
+<ENAMEX TYPE="GPE">Manley</ENAMEX>, <ENAMEX TYPE="GPE">Alaska</ENAMEX>. <ENAMEX TYPE="PERSON">Vern Halter</ENAMEX> of <ENAMEX TYPE="GPE">Willow</ENAMEX> arrived just four minutes
+after <ENAMEX TYPE="PERSON">Boulding</ENAMEX>.
+With clear skies, the dog teams rested on beds of straw on
+frozen <ENAMEX TYPE="LOCATION">Puntilla Lake</ENAMEX>, surrounded by spectacular views of craggy,
+snow-covered peaks.
+<ENAMEX TYPE="PERSON">Mitch Seavey</ENAMEX> of <ENAMEX TYPE="GPE">Sterling</ENAMEX> arrived in fourth place, two-time
+champion <ENAMEX TYPE="PERSON">Jeff King</ENAMEX> reached the checkpoint in fifth place. <ENAMEX TYPE="PERSON">Mike
+Nosko</ENAMEX> of <ENAMEX TYPE="GPE">Wasilla</ENAMEX> arrived at in sixth place and rookie <ENAMEX TYPE="PERSON">Shawn
+Sidelinger</ENAMEX> of <ENAMEX TYPE="GPE">Wasilla</ENAMEX> was in seventh.
+Mushers were pleased with snow conditions on the trail.
+``I can't imagine anyone complaining about the trail,'' said
+musher <ENAMEX TYPE="PERSON">Linwood Fiedler</ENAMEX> of <ENAMEX TYPE="GPE">Willow</ENAMEX>, who was first to leave the <ENAMEX TYPE="GPE">Finger
+Lake</ENAMEX> checkpoint for the to <ENAMEX TYPE="GPE">Rainy Pass</ENAMEX>. ``It was a sprint trail as
+far as I was concerned.''
+Sixty-three teams _ including four past champions _ are entered
+in this year's race, as well as 19 rookies and mushers from five
+foreign countries.
+<ENAMEX TYPE="PERSON">Swenson</ENAMEX> added interest to the 26th Iditarod by reentering after
+being withdrawn in 1996 when a dog in his team died along the
+trail.
+<ENAMEX TYPE="PERSON">Swenson</ENAMEX>, who has never finished lower than 10th in 20 Iditarods,
+bitterly protested, and the decision was overturned last year. But
+he sat out 1997 anyway.
+<ENAMEX TYPE="PERSON">Swenson</ENAMEX> has said he's running in part to honor his dog Ariel,
+who died of apparent strangulation in 1996.
+``I'm as confident as anyone,'' <ENAMEX TYPE="PERSON">Swenson</ENAMEX> said.
+</TEXT>
+(PROFILE
+(WS SL:BC-Sports-Dog Sled Racing-Iditarod; CT:s;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-09-98 2245EST
+</TRAILER>
+</DOC>
+

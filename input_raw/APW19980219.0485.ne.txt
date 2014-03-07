@@ -1,0 +1,94 @@
+<DOC>
+<DOCNO> APW19980219.0485 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/19/1998 08:05:00 </DATE_TIME>
+<HEADER>
+w1160 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-Italy-CableCar 1stLd-Writethru   02-19 0561
+</HEADER>
+<BODY>
+<SLUG> BC-Italy-Cable Car, 1st Ld-Writethru </SLUG>
+<HEADLINE>
+Italian minister to ask U.S. to give up jurisdiction in cable car
+</HEADLINE>
+probe &QL; 
+ &UR; EDS: UPDATES with comment from Aviano, EDITS to TRIM &QL; 
+ &UR; By FRANCES D'EMILIO &QC; 
+ &UR; Associated Press Writer &QC; 
+
+<TEXT>
+	   <ENAMEX TYPE="GPE">ROME</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ The <ENAMEX TYPE="GPE">Italian</ENAMEX> government will ask <ENAMEX TYPE="GPE">U.S.</ENAMEX> authorities for
+jurisdiction in probing the role of the four-man crew of the <ENAMEX TYPE="ORGANIZATION">Marine</ENAMEX>
+jet which severed a ski gondola cable, Justice Minister <ENAMEX TYPE="PERSON">Giovanni
+Maria Flick</ENAMEX> told the <ENAMEX TYPE="ORGANIZATION">Chamber of Deputies</ENAMEX> Thursday.
+	   By snapping the cable, the jet, on a training run Feb. 3 from
+the <ENAMEX TYPE="GPE">U.S.</ENAMEX> air base of <ENAMEX TYPE="GPE">Aviano</ENAMEX>, in northeast <ENAMEX TYPE="LOCATION">Italy</ENAMEX>, sent the cable car
+smashing into a mountain at an <ENAMEX TYPE="LOCATION">Alpine</ENAMEX> resort, killing all 20 aboard
+the gondola.
+	   If <ENAMEX TYPE="GPE">Italy</ENAMEX> receives jurisdiction and decides to indict the crew,
+the four could stand trial on charges of multiple manslaughter and
+endangering transport.
+	   The crew returned safely to base after the accident and
+expressed sympathy in a statement to the victim's families.
+	   Under <ENAMEX TYPE="ORGANIZATION">NATO</ENAMEX>'s 1951 Status of Forces Agreement, <ENAMEX TYPE="GPE">Italy</ENAMEX> may make
+such a request, and ``the <ENAMEX TYPE="GPE">U.S.</ENAMEX> will give full consideration'' to
+the request, said an <ENAMEX TYPE="FACILITY"><ENAMEX TYPE="GPE">Aviano</ENAMEX></ENAMEX> spokesman, Tech. Sgt. <ENAMEX TYPE="PERSON">Bill Lincicome</ENAMEX>.
+	   But the chances that <ENAMEX TYPE="GPE">U.S.</ENAMEX> authorities will let the Italians
+decide the judicial fate of the crew seemed slim.
+	   <ENAMEX TYPE="PERSON">Lincicome</ENAMEX> noted that there has been no precedent for a <ENAMEX TYPE="ORGANIZATION">NATO</ENAMEX>
+member surrendering jurisdiction in a probe involving the carrying
+out of official duty.
+	   <ENAMEX TYPE="GPE">Italy</ENAMEX>'s request will be made in the next few days via the
+foreign <ENAMEX TYPE="ORGANIZATION">ministry</ENAMEX>.
+	   <ENAMEX TYPE="GPE">Italy</ENAMEX> was seeking jurisdiction, <ENAMEX TYPE="PERSON">Flick</ENAMEX> told the deputies, given
+the gravity of the tragedy and ``the enormous impression on the
+<ENAMEX TYPE="GPE">Italian</ENAMEX> population, which has shown the strong desire that justice
+be carried out in our country.''
+	   The request comes at a sensitive time, with some small leftist
+parties which support Premier <ENAMEX TYPE="PERSON">Romano Prodi</ENAMEX>'s government opposing
+<ENAMEX TYPE="GPE">U.S.</ENAMEX> use of <ENAMEX TYPE="GPE">Italian</ENAMEX> or <ENAMEX TYPE="ORGANIZATION">NATO</ENAMEX> bases in <ENAMEX TYPE="GPE">Italy</ENAMEX> should there be a strike
+against <ENAMEX TYPE="GPE">Iraq</ENAMEX>.
+	   <ENAMEX TYPE="PERSON">Flick</ENAMEX> said the request took into consideration the ``loyal and
+reciprocal cooperation between the <ENAMEX TYPE="GPE">Italian</ENAMEX> and <ENAMEX TYPE="GPE">U.S.</ENAMEX> authorities.''
+	   The minister indicated that <ENAMEX TYPE="GPE">Italy</ENAMEX> might ask jurisdiction to
+probe the role of other Americans attached to <ENAMEX TYPE="FACILITY"><ENAMEX TYPE="GPE">Aviano</ENAMEX></ENAMEX>, but that a
+final decision hadn't been made on that.
+	   <ENAMEX TYPE="GPE">Italian</ENAMEX> and <ENAMEX TYPE="GPE">American</ENAMEX> militaries are conducting a joint
+investigation to determine whether any of the jet's crew or its
+commanding officers should face charges.
+	   <ENAMEX TYPE="GPE">Italian</ENAMEX> civilian prosecutors are conducting a separate
+investigation but will be powerless to try the crew unless <ENAMEX TYPE="GPE">American</ENAMEX>
+authorities give up jurisdiction.
+	   On Wednesday, <ENAMEX TYPE="GPE">Italian</ENAMEX> news reports said that the jet was well
+below its approved altitude when the accident happened.
+	   A team of experts appointed by an <ENAMEX TYPE="GPE">Italian</ENAMEX> prosecutor, according
+to the news agency <ENAMEX TYPE="ORGANIZATION">ANSA</ENAMEX>, contends the EA-6B Prowler sped between
+two sets of cables which were 260 feet (85 meters) from the ground
+at the lowest point and 400 feet (125 meters) at the highest.
+	   The <ENAMEX TYPE="FACILITY"><ENAMEX TYPE="ORGANIZATION">Pentagon</ENAMEX></ENAMEX> has acknowledged that a book used by <ENAMEX TYPE="GPE">U.S.</ENAMEX> military
+pilots specifically states that pilots in the area where the ski
+lift is located were to maintain a minimum altitude of 1,000 feet
+(300 meters).
+	   <ENAMEX TYPE="PERSON">Flick</ENAMEX> said <ENAMEX TYPE="GPE">Italy</ENAMEX> will advance the compensation for the victims,
+with the <ENAMEX TYPE="GPE">United States</ENAMEX> eventually reimbursing <ENAMEX TYPE="GPE">Italy</ENAMEX> for 75 percent
+of the costs.
+	   (fd)
+</TEXT>
+(PROFILE
+(WS SL:BC-Italy-Cable Car, 1st Ld-Writethru; CT:i; 
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-19-98 0805EST
+</TRAILER>
+</DOC>
+

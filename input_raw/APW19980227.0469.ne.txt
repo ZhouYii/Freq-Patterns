@@ -1,0 +1,95 @@
+<DOC>
+<DOCNO> APW19980227.0469 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/27/1998 07:57:00 </DATE_TIME>
+<HEADER>
+w2374 &Cx1f; wstm-
+r s &Cx13;  &Cx11;  BC-Sports-Soccer-NoTicke     02-27 0582
+</HEADER>
+<BODY>
+<SLUG> BC-Sports-Soccer-No Tickets </SLUG>
+<HEADLINE>
+England presses for tickets; warns of hooligan problems
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">LONDON</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Government ministers, <ENAMEX TYPE="ORGANIZATION">parliament</ENAMEX> members and
+soccer officials pressed their demands Friday that <ENAMEX TYPE="GPE">England</ENAMEX> should
+receive more tickets for this summer's World Cup in <ENAMEX TYPE="GPE">France</ENAMEX> to avoid
+giving hooligans an excuse to cause trouble.
+Sports Minister <ENAMEX TYPE="PERSON">Tony Banks</ENAMEX> termed ``miserly'' the allocation of
+only 9,128 tickets for <ENAMEX TYPE="GPE"><ENAMEX TYPE="ORGANIZATION">England</ENAMEX></ENAMEX>'s first three games. Home Secretary
+<ENAMEX TYPE="PERSON">Jack Straw</ENAMEX> warned that demand would exceed supply even if the
+allocation were doubled or tripled.
+``The demand would still outstrip supply by a factor 100 or
+1,000,'' <ENAMEX TYPE="PERSON">Straw</ENAMEX> said, warning of danger if fans without tickets
+swarm into <ENAMEX TYPE="GPE">France</ENAMEX>.
+``What is absolutely critical is that we must not let this
+controversy about the relatively low level of ticket allocation be
+used as an excuse to justify... criminals and hooligans causing
+trouble at the games,'' added <ENAMEX TYPE="PERSON">Straw</ENAMEX>, the minister in charge of
+policing.
+Several other <ENAMEX TYPE="GPE">European</ENAMEX> countries _ <ENAMEX TYPE="GPE">Germany</ENAMEX>, <ENAMEX TYPE="GPE">Belgium</ENAMEX>, <ENAMEX TYPE="GPE">the
+Netherlands</ENAMEX> and <ENAMEX TYPE="GPE">Denmark</ENAMEX> among them _ have had similar complaints
+about <ENAMEX TYPE="GPE">France</ENAMEX>'s ticketing policy, brought about by relatively small
+stadiums and an increase of World Cup finalists from 24 to 32.
+``This is making something of a mockery of a great footballing
+festival,'' <ENAMEX TYPE="PERSON">Banks</ENAMEX> said.
+Twenty-two members of <ENAMEX TYPE="ORGANIZATION">parliament</ENAMEX> also weighed in Friday with a
+motion condemning ``the action of the <ENAMEX TYPE="GPE">French</ENAMEX> ticketing
+authorities,'' terming it a breach of <ENAMEX TYPE="ORGANIZATION">European Commission</ENAMEX>
+regulations.
+The motion calls on Prime Minister <ENAMEX TYPE="PERSON">Tony Blair</ENAMEX>, serving in the
+six-month rotating presidency of the <ENAMEX TYPE="ORGANIZATION">European Union</ENAMEX>, ``to press for
+swift punitive action and a proper allocation of tickets for
+<ENAMEX TYPE="GPE">British</ENAMEX> fans hoping to attend this festival of football.''
+The <ENAMEX TYPE="ORGANIZATION">English Football Association</ENAMEX> has also asked soccer's world
+governing body <ENAMEX TYPE="ORGANIZATION">FIFA</ENAMEX> to press the French for more tickets.
+``We will take this as far as we possible can,'' said <ENAMEX TYPE="ORGANIZATION">FA</ENAMEX>
+spokesman <ENAMEX TYPE="PERSON">David Davies</ENAMEX>. ``At the moment our concern has gone to
+<ENAMEX TYPE="ORGANIZATION">FIFA</ENAMEX> General Secretary <ENAMEX TYPE="PERSON">Sepp Blatter</ENAMEX>. We know there is deep concern
+and that has been reflected in the telephone conversation we've had
+right across <ENAMEX TYPE="GPE">Europe</ENAMEX>.''
+<ENAMEX TYPE="PERSON">Straw</ENAMEX>, speaking Friday at a roundtable on hooliganism and
+security in the northern city of <ENAMEX TYPE="GPE">Blackburn</ENAMEX>, warned fans not to
+travel to <ENAMEX TYPE="GPE">France</ENAMEX> without tickets.
+``Despite what anyone claims _ no one has tickets, as they have
+yet to be printed,'' <ENAMEX TYPE="PERSON">Straw</ENAMEX> said.
+<ENAMEX TYPE="PERSON">Straw</ENAMEX> also pointed out that under <ENAMEX TYPE="GPE">French</ENAMEX> law, tickets are
+invalid ``unless they are bought from an authorized agent.''
+Under the current allocation, <ENAMEX TYPE="GPE">England</ENAMEX> will receive 3,790 tickets
+for its opening match against <ENAMEX TYPE="GPE"><ENAMEX TYPE="ORGANIZATION">Tunisia</ENAMEX></ENAMEX> in <ENAMEX TYPE="GPE">Marseille</ENAMEX> on June 15;
+2,749 for the game against <ENAMEX TYPE="GPE"><ENAMEX TYPE="ORGANIZATION">Romania</ENAMEX></ENAMEX> in <ENAMEX TYPE="GPE">Toulouse</ENAMEX> on June 22; and
+2,589 for the match against <ENAMEX TYPE="GPE"><ENAMEX TYPE="ORGANIZATION">Colombia</ENAMEX></ENAMEX> in <ENAMEX TYPE="GPE">Lens</ENAMEX> on June 26.
+The stadium capacity is 60,000 in <ENAMEX TYPE="GPE">Marseille</ENAMEX>, 37,000 in <ENAMEX TYPE="GPE">Toulouse</ENAMEX>
+and 41,000 in <ENAMEX TYPE="GPE">Lens</ENAMEX>.
+There are a total of 2.5 million tickets on sale for the 64
+matches during the tournament.
+Under <ENAMEX TYPE="ORGANIZATION">FIFA</ENAMEX>'s rules:
+_ 65 percent of the tickets are sold in <ENAMEX TYPE="GPE">France</ENAMEX>, with priority to
+the <ENAMEX TYPE="GPE">French</ENAMEX> soccer family.
+_ 10 percent are sold to officially approved tour operators.
+_ 5 percent are made available for purchase by official sponsors
+and partners.
+_ 20 percent are reserved for <ENAMEX TYPE="ORGANIZATION">FIFA</ENAMEX> and the national
+associations, with 80 percent of those going to the two countries
+playing a match, on the basis of each team getting half.
+(scw/sw)
+</TEXT>
+(PROFILE
+(WS SL:BC-Sports-Soccer-No Tickets; CT:s;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-27-98 0757EST
+</TRAILER>
+</DOC>

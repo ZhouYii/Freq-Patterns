@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> APW19980308.0201 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/08/1998 06:26:00 </DATE_TIME>
+<HEADER>
+w2106 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Turkey-Yugoslavia-Kos     03-08 0243
+</HEADER>
+<BODY>
+<SLUG> BC-Turkey-Yugoslavia-Kosovo,0242 </SLUG>
+<HEADLINE>
+Ethnic Albanians in Turkey protest Serb attacks in Kosovo
+</HEADLINE>
+&UR; AP Photos IST101-102 &QL;
+
+<TEXT>
+<ENAMEX TYPE="GPE">ISTANBUL</ENAMEX>, <ENAMEX TYPE="GPE">Turkey</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Some 1,500 ethnic Albanians marched
+Sunday in downtown <ENAMEX TYPE="LOCATION">Istanbul</ENAMEX>, burning <ENAMEX TYPE="GPE">Serbian</ENAMEX> flags to protest the
+killings of ethnic Albanians by <ENAMEX TYPE="GPE">Serb</ENAMEX> police in southern <ENAMEX TYPE="GPE">Serb</ENAMEX> <ENAMEX TYPE="GPE">Kosovo</ENAMEX>
+province.
+The police barred the crowd from reaching the <ENAMEX TYPE="GPE">Yugoslavian</ENAMEX>
+consulate in downtown <ENAMEX TYPE="GPE"><ENAMEX TYPE="LOCATION">Istanbul</ENAMEX></ENAMEX>, but allowed them to demonstrate on
+nearby streets.
+``Stop the bloodshed in <ENAMEX TYPE="GPE">Kosovo</ENAMEX>,'' the protesters chanted.
+Meanwhile in the capital, <ENAMEX TYPE="GPE">Ankara</ENAMEX>, a few hundred ethnic Albanians
+laid a black wreath at the gate of <ENAMEX TYPE="GPE">Yugoslavian</ENAMEX> embassy.
+Ethnic Albanians comprise 90 percent of the population in
+<ENAMEX TYPE="GPE">Kosovo</ENAMEX>, but Serbs maintain control through a large military and
+police presence. <ENAMEX TYPE="GPE">Serbian</ENAMEX> police say they are trying to eliminate
+the pro-independence <ENAMEX TYPE="ORGANIZATION">Kosovo Liberation Army</ENAMEX> and restore order.
+At least 51 people were reported killed in clashes between <ENAMEX TYPE="GPE">Serb</ENAMEX>
+police and ethnic Albanians in the troubled region in recent days.
+<ENAMEX TYPE="GPE">Turkey</ENAMEX>, worried about civil war in <ENAMEX TYPE="GPE">Kosovo</ENAMEX> spilling to the whole
+<ENAMEX TYPE="LOCATION">Balkans</ENAMEX>, urged all <ENAMEX TYPE="LOCATION">Balkan</ENAMEX> states to sign a joint declaration that
+the <ENAMEX TYPE="GPE">Kosovo</ENAMEX> crisis be solved peacefully and without any change of
+borders.
+Turks feel they have special ties to the whole region, which
+they ruled for hundreds of years during the Ottoman Empire. They
+also share <ENAMEX TYPE="ORGANIZATION">Islam</ENAMEX> with the ethnic Albanians.
+</TEXT>
+(PROFILE
+(WS SL:BC-Turkey-Yugoslavia-Kosovo; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(REG:MEST;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-08-98 0626EST
+</TRAILER>
+</DOC>
+

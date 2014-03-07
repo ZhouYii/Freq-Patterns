@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> APW19980219.0468 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/19/1998 07:56:00 </DATE_TIME>
+<HEADER>
+w1143 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Georgia-UNKidnappings 2ndLd-Writethru   02-19 0429
+</HEADER>
+<BODY>
+<SLUG> BC-Georgia-UN Kidnappings, 2nd Ld-Writethru </SLUG>
+<HEADLINE>
+Four U.N. military observers kidnapped in Georgia
+</HEADLINE>
+ &UR; Eds: UPDATES with abductors demanding release of those arrested
+following attack on president. CLARIFIES in graf 5 that four U.N.
+observers were seized along with their Georgian driver, IDENTIFIES
+Uruguayan officers in new graf 7. &QL; 
+ &UR; By MISHA DZHINDZHIKHASHVILI &QC; 
+ &UR; Associated Press Writer &QC; 
+
+<TEXT>
+	   <ENAMEX TYPE="GPE">TBILISI</ENAMEX>, <ENAMEX TYPE="GPE">Georgia</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Kidnappers seized four <ENAMEX TYPE="ORGANIZATION">United Nations</ENAMEX>
+military observers in the former <ENAMEX TYPE="GPE">Soviet</ENAMEX> republic of <ENAMEX TYPE="GPE">Georgia</ENAMEX> on
+Thursday, but police quickly tracked down and surrounded the armed
+gang.
+	   The abductors demanded that the government free seven people
+arrested for allegedly taking part in the last week's failed
+attempt to kill President <ENAMEX TYPE="PERSON">Eduard Shevardnadze</ENAMEX>.
+	   Traveling in two cars, the kidnappers abducted the observers and
+stole one of their vehicles in the western <ENAMEX TYPE="GPE">Georgia</ENAMEX> town of <ENAMEX TYPE="GPE">Zugdidi</ENAMEX>,
+police said.
+	   Several hours later, police encircled a house where the
+kidnappers and the hostages were holed up in the village of
+<ENAMEX TYPE="GPE">Dzhikhaskari</ENAMEX>, 20 kilometers (12 miles) away, <ENAMEX TYPE="GPE">Georgia</ENAMEX>'s Interior
+Minister <ENAMEX TYPE="PERSON">Kakha Targamadze</ENAMEX> said.
+	   Security officials placed armored military vehicles outside the
+house and began negotiations with the kidnappers, the interior
+minister added.
+	   The kidnap victims included two observers from <ENAMEX TYPE="GPE">Uruguay</ENAMEX>, one from
+<ENAMEX TYPE="GPE">Sweden</ENAMEX> and one from the <ENAMEX TYPE="GPE">Czech Republic</ENAMEX>, along with their <ENAMEX TYPE="GPE">Georgian</ENAMEX>
+driver, according to the <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> office.
+	   The Uruguayans were identified as captains <ENAMEX TYPE="PERSON">Ronald Garcia</ENAMEX> and
+<ENAMEX TYPE="PERSON">Julio Navas</ENAMEX>, and the Swede as Maj. <ENAMEX TYPE="PERSON">Maaren Moelgaard</ENAMEX>. The identities
+of the others were not immediately known.
+	   The interior minister said the kidnappers were supporters of
+former president <ENAMEX TYPE="PERSON">Zviad Gamsakhurdia</ENAMEX>, who was ousted in 1992 and who
+died under mysterious circumstances in 1994.
+	   The kidnappers said they would free their hostages only if
+authorities release all seven <ENAMEX TYPE="PERSON">Gamsakhurdia</ENAMEX> supporters arrested in
+recent days for alleged involvement in a Feb. 9 assassination
+attempt against <ENAMEX TYPE="PERSON">Shevardnadze</ENAMEX>.
+	   Two of <ENAMEX TYPE="PERSON">Shevardnadze</ENAMEX>'s bodyguards were killed in last week's
+attack, as was one of the assailants, but the president was
+unharmed.
+	   The <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> observers are in <ENAMEX TYPE="GPE">Georgia</ENAMEX> to monitor the truce between
+government forces and separatists in the northwest province of
+<ENAMEX TYPE="GPE">Abkhazia</ENAMEX>. The separatists took control of the province in a 1992-3
+war.
+	   The <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> team, along with <ENAMEX TYPE="GPE">Russian</ENAMEX> forces, have helped prevent
+further outbreaks of fighting, but there has been no real progress
+toward a political settlement.
+	   (md/vi/gm) 	   
+</TEXT>
+(PROFILE
+(WS SL:BC-Georgia-UN Kidnappings, 2nd Ld-Writethru; CT:i; 
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-19-98 0756EST
+</TRAILER>
+</DOC>
+

@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> APW19980305.1201 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/05/1998 14:15:00 </DATE_TIME>
+<HEADER>
+w2521 &Cx1f; wstm-
+r s &Cx13;  &Cx11;  BC-Sports-Soccer-WorldCu 1stLd-Writethru   03-05 0516
+</HEADER>
+<BODY>
+<SLUG> BC-Sports-Soccer-World Cup-Iran-US, 1st Ld-Writethru,0516 </SLUG>
+<HEADLINE>
+Tight schedule forces Iran to turn down friendly with America
+</HEADLINE>
+&UR; EDS: UPDATES with U.S. comment; Stands as 2nd Ld-Writethru to some
+lines to identify Gulati as USSF vice president, add more detail. &QL;
+&UR; By AFSHIN VALINEJAD &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">TEHRAN</ENAMEX>, <ENAMEX TYPE="GPE">Iran</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Iran</ENAMEX></ENAMEX> has declined an invitation from the
+<ENAMEX TYPE="ORGANIZATION">U.S. Soccer Federation</ENAMEX> to play a friendly match in the <ENAMEX TYPE="GPE">United
+States</ENAMEX>, an <ENAMEX TYPE="GPE">Iranian</ENAMEX> soccer official said Thursday.
+<ENAMEX TYPE="PERSON">Mohsen Safai Farahani</ENAMEX>, the president of <ENAMEX TYPE="GPE">Iran</ENAMEX>'s football
+federation, said the <ENAMEX TYPE="ORGANIZATION">USSF</ENAMEX> sent a fax about two weeks ago, inviting
+<ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Iran</ENAMEX></ENAMEX> to come to the <ENAMEX TYPE="GPE">United States</ENAMEX> ``in an all-expenses paid trip to
+meet the <ENAMEX TYPE="GPE">U.S.</ENAMEX> team in a friendly match.''
+``Unfortunately, and because our program is fully booked and
+because of the long distance, we thanked them and turned the
+invitation down,'' <ENAMEX TYPE="PERSON">Farahani</ENAMEX> told reporters.
+However, <ENAMEX TYPE="ORGANIZATION">USSF</ENAMEX> vice president and deputy commissioner of <ENAMEX TYPE="ORGANIZATION">U.S.
+Major League Soccer</ENAMEX> <ENAMEX TYPE="PERSON">Sunil Gulati</ENAMEX> said Thursday that the invitation
+was for <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Iran</ENAMEX></ENAMEX> to play <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Mexico</ENAMEX></ENAMEX>, not the <ENAMEX TYPE="GPE"><ENAMEX TYPE="ORGANIZATION">United States</ENAMEX></ENAMEX>.
+``<ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Mexico</ENAMEX></ENAMEX> wants to play some <ENAMEX TYPE="GPE">Asian</ENAMEX> teams because they have <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">South
+Korea</ENAMEX></ENAMEX> in their group,'' <ENAMEX TYPE="PERSON">Gulati</ENAMEX> said.
+Since <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Mexico</ENAMEX></ENAMEX> on occasion plays in the <ENAMEX TYPE="GPE">United States</ENAMEX>, often to
+reach their heavy support in Southern California, the <ENAMEX TYPE="ORGANIZATION">USSF</ENAMEX> acted on
+behalf of the <ENAMEX TYPE="GPE">Mexican</ENAMEX> federation in sending out invitation letters
+to <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">South Korea</ENAMEX></ENAMEX>, <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Iran</ENAMEX></ENAMEX> and <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">China</ENAMEX></ENAMEX>.
+<ENAMEX TYPE="PERSON">Gulati</ENAMEX> also approached <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Japan</ENAMEX></ENAMEX> verbally, he said.
+Also attending the press conference was <ENAMEX TYPE="GPE"><ENAMEX TYPE="ORGANIZATION">Croatian</ENAMEX></ENAMEX> coach <ENAMEX TYPE="PERSON">Tomislav
+Ivic</ENAMEX>, who took over the <ENAMEX TYPE="GPE">Iranian</ENAMEX> team from <ENAMEX TYPE="GPE">Brazilian</ENAMEX> <ENAMEX TYPE="PERSON">Valdir Vierra</ENAMEX>
+after <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Iran</ENAMEX></ENAMEX> claimed the last spot in the 32-team World Cup field in
+<ENAMEX TYPE="GPE">France</ENAMEX> in June.
+``It would have been a fantastic opportunity and we would've
+liked to go there but our schedule was complete and we couldn't
+change it,'' <ENAMEX TYPE="PERSON">Ivic</ENAMEX> said.
+The <ENAMEX TYPE="GPE"><ENAMEX TYPE="ORGANIZATION">United States</ENAMEX></ENAMEX> and <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Iran</ENAMEX></ENAMEX> are grouped together along with
+<ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Germany</ENAMEX></ENAMEX> and <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Yugoslavia</ENAMEX></ENAMEX> for the first round of the World Cup.
+<ENAMEX TYPE="PERSON">Ivic</ENAMEX> said the <ENAMEX TYPE="GPE">Iranian</ENAMEX> team will travel to <ENAMEX TYPE="GPE">France</ENAMEX> next week to
+play against first division teams <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Montpellier</ENAMEX></ENAMEX> and <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Nantes</ENAMEX></ENAMEX> before
+returning to <ENAMEX TYPE="GPE">Tehran</ENAMEX> for friendly matches against <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Hungary</ENAMEX></ENAMEX>, <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Ghana</ENAMEX></ENAMEX> and
+<ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Jamaica</ENAMEX></ENAMEX>.
+<ENAMEX TYPE="PERSON">Ivic</ENAMEX> downplayed the importance of <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="GPE">Iran</ENAMEX></ENAMEX>'s World Cup match with
+the <ENAMEX TYPE="GPE"><ENAMEX TYPE="ORGANIZATION">United States</ENAMEX></ENAMEX>.
+``We want to qualify to the second round. This is our first
+wish. All three games are different and we need to prepare special
+tactics for each one. Each game is important,'' <ENAMEX TYPE="PERSON">Ivic</ENAMEX> said.
+He said the roster for the finals was not complete and he was
+awaiting a number of players to join the camp after finishing their
+club duty.
+Some 15 players, who form the backbone of the national team, are
+from <ENAMEX TYPE="GPE">Iran</ENAMEX>'s two major clubs, <ENAMEX TYPE="ORGANIZATION">Esteqlal</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Piroozi</ENAMEX>. Both teams are
+currently engaged in <ENAMEX TYPE="GPE">Asian</ENAMEX> championships.
+Despite the risk of losing one or more of the players to injury,
+<ENAMEX TYPE="PERSON">Farahani</ENAMEX> said he was happy that the <ENAMEX TYPE="ORGANIZATION">Esteqlal</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Piroozi</ENAMEX> players
+were competing in regional competitions.
+``We believe that playing in the league and <ENAMEX TYPE="GPE">Asian</ENAMEX> tournaments
+will create the best situation for the national team,'' he said.
+</TEXT>
+(PROFILE
+(WS SL:BC-Sports-Soccer-World Cup-Iran-US, 1st Ld-Writethru; CT:s;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-05-98 1415EST
+</TRAILER>
+</DOC>
+

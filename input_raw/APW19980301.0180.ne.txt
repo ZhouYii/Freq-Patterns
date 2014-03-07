@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> APW19980301.0180 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/01/1998 06:18:00 </DATE_TIME>
+<HEADER>
+w2674 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Israel-Hamas     03-01 0223
+</HEADER>
+<BODY>
+<SLUG> BC-Israel-Hamas </SLUG>
+<HEADLINE>
+Hamas militants go on trial in Israel
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">JERUSALEM</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Two <ENAMEX TYPE="ORGANIZATION">Islamic</ENAMEX> militants suspected of killing an
+<ENAMEX TYPE="GPE">Israeli</ENAMEX> soldier and plotting a <ENAMEX TYPE="GPE">Tel Aviv</ENAMEX> bombing went on trial
+Sunday, and a Palestinian charged with helping finance <ENAMEX TYPE="ORGANIZATION">Hamas</ENAMEX>
+activists was brought before judges.
+<ENAMEX TYPE="PERSON">Jamal al-Hor</ENAMEX> and <ENAMEX TYPE="PERSON">Abdel Rahman Ghanimat</ENAMEX> are charged in an <ENAMEX TYPE="GPE">Israeli</ENAMEX>
+military court in <ENAMEX TYPE="GPE">Lod</ENAMEX> of running a <ENAMEX TYPE="ORGANIZATION">Hamas</ENAMEX> squad that is blamed for
+the deaths of 11 Israelis over the past two years.
+<ENAMEX TYPE="PERSON">Hor</ENAMEX> and <ENAMEX TYPE="PERSON">Ghanimat</ENAMEX> allegedly ran the <ENAMEX TYPE="ORGANIZATION">Islamic</ENAMEX> militant <ENAMEX TYPE="ORGANIZATION">Hamas</ENAMEX>
+group's cell in the <ENAMEX TYPE="LOCATION">West Bank</ENAMEX> village of <ENAMEX TYPE="GPE">Tsurif</ENAMEX>, north of <ENAMEX TYPE="GPE">Hebron</ENAMEX>.
+The cell has been blamed for three drive-by shootings, the
+abduction and slaying of an <ENAMEX TYPE="GPE">Israeli</ENAMEX> soldier, and a March suicide
+bombing in a <ENAMEX TYPE="GPE">Tel Aviv</ENAMEX> cafe that killed three women.
+Also Sunday, the court was to extend the detention of <ENAMEX TYPE="PERSON">Mohammed
+Othman</ENAMEX>, a 25-year-old from the <ENAMEX TYPE="FACILITY">Shuafat refugee camp</ENAMEX> in <ENAMEX TYPE="GPE">Jerusalem</ENAMEX>
+accused of running the banned <ENAMEX TYPE="ORGANIZATION">Holy Land Foundation</ENAMEX>.
+<ENAMEX TYPE="GPE">Israel</ENAMEX> outlawed the <ENAMEX TYPE="GPE">Richardson</ENAMEX>, <ENAMEX TYPE="GPE">Texas</ENAMEX>-based <ENAMEX TYPE="ORGANIZATION">Holy Land Foundation</ENAMEX>
+last year, saying it transfers funds to <ENAMEX TYPE="ORGANIZATION">Hamas</ENAMEX> activists and gives
+money to the families of suicide bombers.
+According to the charge sheet against <ENAMEX TYPE="PERSON">Othman</ENAMEX>, also known as
+<ENAMEX TYPE="PERSON">Rahman Anati</ENAMEX>, the group transferred funds through him to <ENAMEX TYPE="ORGANIZATION">Hamas</ENAMEX>
+activists in <ENAMEX TYPE="GPE">Israel</ENAMEX>, the <ENAMEX TYPE="LOCATION">West Bank</ENAMEX> and <ENAMEX TYPE="LOCATION">Gaza</ENAMEX>.
+</TEXT>
+&UR; ga-hla
+(PROFILE
+(WS SL:BC-Israel-Hamas; CT:i;
+(REG:MEST;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-01-98 0618EST
+</TRAILER>
+</DOC>
+

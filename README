@@ -1,0 +1,17 @@
+A small system to mine some patterns.
+Components :
+    raw_parser = target format of ACE_NE_all/*/nwire tagged files. Generate raw
+    text and map of phrase->label.
+    
+    eclat = third party lib for association rule mining and freq pattern mining.
+    
+    patterns = takes many raw texts and dictionaries and output all patterns
+
+    (Stanford POS = POS labels on text files. Not used)
+
+To demo : /find_patterns.sh input_raw out_dir
+After running, out_dir/eclat gives all the patterns, out_dir/eclat_patterns
+gives all the patterns that meet some minimum pattern length and support.
+
+The parameters for frequent pattern mining can be tuned in find_patterns.sh.
+

@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> APW19980322.0749 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/22/1998 14:57:00 </DATE_TIME>
+<HEADER>
+w1834 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-NorthernIreland 1stLd-Writethru   03-22 0720
+</HEADER>
+<BODY>
+<SLUG> BC-Northern Ireland, 1st Ld-Writethru </SLUG>
+<HEADLINE>
+Police find bomb on eve of Sinn Fein's return to peace talks
+</HEADLINE>
+&UR; Eds: NEW throughout; RAISES reference to bomb; UPDATES with protest
+against Protestant marches, comment from Sinn Fein leader; trims
+pvs &QL;
+&UR; By SHAWN POGATCHNIK &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">BELFAST</ENAMEX>, <ENAMEX TYPE="GPE">Northern Ireland</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Police seized a car bomb under
+construction Sunday in a town bordering <ENAMEX TYPE="GPE">Northern Ireland</ENAMEX> on the eve
+of the return to peace talks by the <ENAMEX TYPE="ORGANIZATION">IRA</ENAMEX>-allied <ENAMEX TYPE="ORGANIZATION">Sinn Fein</ENAMEX> party.
+Chief Superintendent <ENAMEX TYPE="PERSON">Al McHugh</ENAMEX> said the bomb discovered in the
+<ENAMEX TYPE="GPE">Irish Republic</ENAMEX> was destined for an unknown target in <ENAMEX TYPE="GPE">Northern
+Ireland</ENAMEX> and ``would have caused massive destruction.''
+The discovery appeared to be the latest attempt by extremists
+opposed to the <ENAMEX TYPE="ORGANIZATION">IRA</ENAMEX>'s 8-month-old truce to undermine the peace
+process, set to resume Monday in <ENAMEX TYPE="GPE">Belfast</ENAMEX>.
+Extremists have bombed two predominantly pro-<ENAMEX TYPE="GPE">British</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Protestant</ENAMEX>
+towns and fired mortar shells at a police station since <ENAMEX TYPE="ORGANIZATION">Sinn Fein</ENAMEX>
+was expelled from peace talks on Feb. 20 in punishment for two
+killings blamed on the <ENAMEX TYPE="ORGANIZATION">Irish Republican Army</ENAMEX>.
+Police found more than 1,300 pounds (600 kgs) of
+fertilizer-based explosives Sunday in a shed in <ENAMEX TYPE="GPE">Dundalk</ENAMEX>, 50 miles
+(80 kms) south of <ENAMEX TYPE="GPE">Belfast</ENAMEX>.
+They arrested two men in connection with the bomb factory, which
+also contained circuitry, detonating cord and the <ENAMEX TYPE="ORGANIZATION">Mitsubishi</ENAMEX> truck
+that would have carried the bomb.
+The <ENAMEX TYPE="GPE">British</ENAMEX> and <ENAMEX TYPE="GPE">Irish</ENAMEX> governments, which cosponsor the
+multi-party talks that are supposed to conclude by May, invited
+<ENAMEX TYPE="ORGANIZATION">Sinn Fein</ENAMEX> to rejoin two weeks ago.
+But <ENAMEX TYPE="ORGANIZATION">Sinn Fein</ENAMEX> leader <ENAMEX TYPE="PERSON">Gerry Adams</ENAMEX> kept his party out pending
+meetings with <ENAMEX TYPE="GPE">British</ENAMEX> Prime Minister <ENAMEX TYPE="PERSON">Tony Blair</ENAMEX> 10 days ago and
+President <ENAMEX TYPE="PERSON">Clinton</ENAMEX> last week.
+``We were unjustly pushed out of the talks in February but we
+are back,'' <ENAMEX TYPE="PERSON">Adams</ENAMEX> said Sunday.
+He said the north's substantial <ENAMEX TYPE="ORGANIZATION">Catholic</ENAMEX> minority demanded a
+settlement that would promote <ENAMEX TYPE="GPE">Northern Ireland</ENAMEX>'s eventual
+unification with the <ENAMEX TYPE="GPE">Irish Republic</ENAMEX>.
+``Nationalists in the north are not a minority in someone else's
+country. We are <ENAMEX TYPE="GPE">Irish</ENAMEX> citizens, living in our own country,'' <ENAMEX TYPE="PERSON">Adams</ENAMEX>
+said, adding: ``Nationalists want to move towards <ENAMEX TYPE="GPE">Irish</ENAMEX> unity and
+see this process as a bridge in that direction.''
+But the north's pro-<ENAMEX TYPE="GPE">British</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Protestant</ENAMEX> majority is bitterly
+opposed to uniting <ENAMEX TYPE="GPE">Ireland</ENAMEX> and instead wants a strong government
+for <ENAMEX TYPE="GPE">Northern Ireland</ENAMEX>, which has been ruled directly by <ENAMEX TYPE="GPE">London</ENAMEX> since
+1972.
+<ENAMEX TYPE="GPE">Northern Ireland</ENAMEX>'s biggest Protestant party, the <ENAMEX TYPE="ORGANIZATION">Ulster
+Unionists</ENAMEX>, is threatening to push for <ENAMEX TYPE="ORGANIZATION">Sinn Fein</ENAMEX>'s expulsion once
+again. They say <ENAMEX TYPE="ORGANIZATION">IRA</ENAMEX> commanders are responsible for the recent bomb
+attacks.
+Also Sunday, more than 2,000 <ENAMEX TYPE="ORGANIZATION">Catholic</ENAMEX> protesters rallied in
+<ENAMEX TYPE="GPE">Portadown</ENAMEX> against the annual parades by the <ENAMEX TYPE="ORGANIZATION">Orange Order</ENAMEX>, <ENAMEX TYPE="GPE">Northern
+Ireland</ENAMEX>'s dominant <ENAMEX TYPE="ORGANIZATION">Protestant</ENAMEX> fraternal group.
+Confrontations among <ENAMEX TYPE="ORGANIZATION">Catholic</ENAMEX> protesters, <ENAMEX TYPE="ORGANIZATION">Protestant</ENAMEX> marchers
+and the police have provoked widespread violence in <ENAMEX TYPE="GPE">Northern
+Ireland</ENAMEX> for the past three summers. The crucible is <ENAMEX TYPE="GPE">Portadown</ENAMEX>, 30
+miles (50 kms) southwest of <ENAMEX TYPE="GPE">Belfast</ENAMEX>, where Orangemen march each
+July from their rural church back downtown _ through the town's
+main <ENAMEX TYPE="ORGANIZATION">Catholic</ENAMEX> area.
+Protesters from several <ENAMEX TYPE="ORGANIZATION">Catholic</ENAMEX> communities crowded into
+<ENAMEX TYPE="GPE">Portadown</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Catholic</ENAMEX> <ENAMEX TYPE="FACILITY">Garvaghy Road</ENAMEX> to hear speakers demand
+negotiations with <ENAMEX TYPE="ORGANIZATION">Orange Order</ENAMEX> leaders, and pledge to participate
+in each others' road-blocking protests this summer.
+``Small nationalist communities are not going to be left on
+their own this summer,'' said <ENAMEX TYPE="PERSON">Gerard Rice</ENAMEX>, a former <ENAMEX TYPE="ORGANIZATION">IRA</ENAMEX> prisoner
+who leads anti-<ENAMEX TYPE="ORGANIZATION">Orange</ENAMEX> protests in a <ENAMEX TYPE="ORGANIZATION">Catholic</ENAMEX> neighborhood of south
+<ENAMEX TYPE="LOCATION">Belfast</ENAMEX>.
+Riot police in armored cars, shields and helmets prevented a few
+hundred Protestants, many waving <ENAMEX TYPE="GPE">British</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Ulster</ENAMEX> flags, from
+interfering with the Catholics as they marched within <ENAMEX TYPE="GPE">Portadown</ENAMEX>'s
+few <ENAMEX TYPE="ORGANIZATION">Catholic</ENAMEX> streets.
+Earlier Sunday, police and militant Protestants clashed in a
+religiously polarized part of north <ENAMEX TYPE="LOCATION">Belfast</ENAMEX>.
+Police said an unmarked police car was hit with gasoline bombs
+from the <ENAMEX TYPE="ORGANIZATION">Protestant</ENAMEX> side. Riot police responded with a volley of
+plastic bullets that scattered a 50-strong mob.
+An elderly <ENAMEX TYPE="ORGANIZATION">Catholic</ENAMEX> man was hospitalized from cuts after a
+<ENAMEX TYPE="ORGANIZATION">Protestant</ENAMEX> gasoline bomb landed in his back yard. Police arrested
+six Protestants on suspicion of rioting.
+(sp/eml)
+</TEXT>
+(PROFILE
+(WS SL:BC-Northern Ireland, 1st Ld-Writethru; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-22-98 1457EST
+</TRAILER>
+</DOC>
+

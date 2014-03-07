@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> APW19980213.1337 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 14:43:00 </DATE_TIME>
+<HEADER>
+w2139 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-ANALYSIS-Russia-US     02-13 0618
+</HEADER>
+<BODY>
+<SLUG> BC-ANALYSIS-Russia-US,0617 </SLUG>
+<HEADLINE>
+Iraq dispute underlines strain in U.S.-Russia ties
+</HEADLINE>
+&UR; With US-Iraq &QL;
+&UR; An AP News Analysis &QL;
+&UR; By BARRY RENFREW &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">MOSCOW</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ The <ENAMEX TYPE="GPE">U.S.</ENAMEX>-<ENAMEX TYPE="GPE">Russian</ENAMEX> split over <ENAMEX TYPE="GPE">Iraq</ENAMEX> underlines how
+ties between <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Moscow</ENAMEX></ENAMEX> and <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Washington</ENAMEX></ENAMEX> have cooled as the Russians try
+to reassert themselves as a world power.
+While there is no danger of reviving the Cold War rivalry that
+dominated the world for more than 45 years, the diplomatic
+honeymoon that followed the collapse of the <ENAMEX TYPE="GPE">Soviet Union</ENAMEX> in 1991 is
+coming to an end.
+Both <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Moscow</ENAMEX></ENAMEX> and <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Washington</ENAMEX></ENAMEX> value good relations, but there are
+likely to be more and more disagreements as <ENAMEX TYPE="GPE">Russia</ENAMEX> goes its own
+way.
+<ENAMEX TYPE="GPE">Russia</ENAMEX>'s opposition to the use of force in <ENAMEX TYPE="GPE">Iraq</ENAMEX> is the latest in
+a series of foreign policy disputes with the <ENAMEX TYPE="GPE">United States</ENAMEX>. <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Moscow</ENAMEX></ENAMEX>
+bitterly opposes <ENAMEX TYPE="ORGANIZATION">NATO</ENAMEX> expansion in east <ENAMEX TYPE="LOCATION">Europe</ENAMEX>, and <ENAMEX TYPE="ORGANIZATION">Parliament</ENAMEX> has
+blocked the START II missile-reduction treaty with <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Washington</ENAMEX></ENAMEX>.
+<ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Moscow</ENAMEX></ENAMEX> also is building links with <ENAMEX TYPE="GPE">China</ENAMEX>, saying the world must
+not be dominated by the <ENAMEX TYPE="GPE">United States</ENAMEX>.
+President <ENAMEX TYPE="PERSON">Boris Yeltsin</ENAMEX> and other top <ENAMEX TYPE="GPE">Russian</ENAMEX> officials have
+unleashed a barrage of warnings on <ENAMEX TYPE="GPE">U.S.</ENAMEX> military strikes against
+<ENAMEX TYPE="GPE">Iraq</ENAMEX>. <ENAMEX TYPE="PERSON">Yeltsin</ENAMEX> said last week a <ENAMEX TYPE="GPE">U.S.</ENAMEX> attack could lead to world war
+and his defense minister, <ENAMEX TYPE="PERSON">Igor Sergeyev</ENAMEX>, publicly warned <ENAMEX TYPE="GPE">U.S.</ENAMEX>
+Defense Secretary <ENAMEX TYPE="PERSON">William Cohen</ENAMEX> in <ENAMEX TYPE="GPE">Moscow</ENAMEX> against attacking <ENAMEX TYPE="GPE">Iraq</ENAMEX>.
+At the heart of <ENAMEX TYPE="GPE">Russia</ENAMEX>'s opposition are two issues.
+On one level, the issue is mostly pragmatic. <ENAMEX TYPE="GPE">Iraq</ENAMEX>, an old <ENAMEX TYPE="GPE">Soviet</ENAMEX>
+client state, owes <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Moscow</ENAMEX></ENAMEX> billions of dollars for weapons that
+can't be paid until <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> sanctions end. <ENAMEX TYPE="GPE">Russia</ENAMEX>, its economy in
+chaos, desperately needs the cash and also hopes for big new
+contracts with <ENAMEX TYPE="GPE">Iraq</ENAMEX> when sanctions end.
+The second issue, emotive and unpredictable, is <ENAMEX TYPE="GPE">Russia</ENAMEX>'s status
+in the world. Many Russians yearn for the days when <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Moscow</ENAMEX></ENAMEX> was the
+world's other superpower.
+The fact that <ENAMEX TYPE="GPE">Russia</ENAMEX> has lost much of its power makes the need
+to play a major global role all the more pressing for many <ENAMEX TYPE="GPE">Russian</ENAMEX>
+officials. And envy of its old rival, the <ENAMEX TYPE="GPE">United States</ENAMEX>, is rising
+as <ENAMEX TYPE="GPE">Russia</ENAMEX>'s power continues to decline.
+<ENAMEX TYPE="GPE">Russian</ENAMEX> officials dismiss suggestions they would aid <ENAMEX TYPE="GPE">Iraq</ENAMEX>
+against the <ENAMEX TYPE="GPE">United States</ENAMEX>. <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Moscow</ENAMEX></ENAMEX> backs <ENAMEX TYPE="ORGANIZATION">United Nations</ENAMEX>' efforts to
+strip <ENAMEX TYPE="GPE">Iraq</ENAMEX> of weapons of mass production, but says only a
+diplomatic solution can work.
+Foreign Minister <ENAMEX TYPE="PERSON">Yevgeny Primakov</ENAMEX>, who formed close ties in the
+<ENAMEX TYPE="GPE">Middle East</ENAMEX> as a <ENAMEX TYPE="GPE">Soviet</ENAMEX> diplomat, has pushed for a <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Moscow</ENAMEX></ENAMEX>-backed
+solution on <ENAMEX TYPE="GPE">Iraq</ENAMEX> to help restore <ENAMEX TYPE="GPE">Russian</ENAMEX> influence in the region.
+The <ENAMEX TYPE="GPE">Russian</ENAMEX> government has neither the desire or power to risk a
+major confrontation with the <ENAMEX TYPE="GPE">United States</ENAMEX>. <ENAMEX TYPE="PERSON">Yeltsin</ENAMEX> considers good
+relations with <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Washington</ENAMEX></ENAMEX> a foundation of his foreign policy.
+But the <ENAMEX TYPE="GPE">Russian</ENAMEX> government and many politicians will be
+stridently critical of the <ENAMEX TYPE="GPE">United States</ENAMEX> if they believe they are
+being ignored. And <ENAMEX TYPE="GPE">Russian</ENAMEX> nationalists will use resentment of
+<ENAMEX TYPE="GPE">American</ENAMEX> power to boost their calls to revive <ENAMEX TYPE="GPE">Russia</ENAMEX> as a great
+power.
+Anti-<ENAMEX TYPE="GPE">American</ENAMEX> resentment has increased as the <ENAMEX TYPE="GPE">United States</ENAMEX> has
+tried to influence <ENAMEX TYPE="GPE">Russian</ENAMEX> policy through economic leverage _
+particularly in the hard-line parliament.
+Some <ENAMEX TYPE="GPE">American</ENAMEX> officials concede that <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Washington</ENAMEX></ENAMEX> should be more
+careful about <ENAMEX TYPE="GPE">Russian</ENAMEX> sensibilities. <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Moscow</ENAMEX></ENAMEX> should be courted as an
+ally, they say, lending support to democratic government in <ENAMEX TYPE="GPE">Russia</ENAMEX>.
+``I think it does reflect a sense here of resentment of being
+ordered around, which in some cases I think our government has done
+in a way that is not productive,'' <ENAMEX TYPE="GPE">U.S.</ENAMEX> Ambassador <ENAMEX TYPE="PERSON">James Collins</ENAMEX>
+said recently.
+----
+EDITOR'S NOTE: <ENAMEX TYPE="PERSON">Barry Renfrew</ENAMEX> is The <ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>'s <ENAMEX TYPE="GPE">Moscow</ENAMEX> bureau chief.
+</TEXT>
+(PROFILE
+(WS SL:BC-ANALYSIS-Russia-US; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1443EST
+</TRAILER>
+</DOC>
+

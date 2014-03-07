@@ -1,0 +1,100 @@
+<DOC>
+<DOCNO> APW19980306.1001 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/06/1998 13:19:00 </DATE_TIME>
+<HEADER>
+w2188 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-Iraq 3rdLd-Writethru   03-06 0642
+</HEADER>
+<BODY>
+<SLUG> BC-Iraq, 3rd Ld-Writethru </SLUG>
+<HEADLINE>
+American Ritter resumes inspections in Iraq
+</HEADLINE>
+&UR; Eds: AMs; RECASTS throughout with Ritter inspecting three sensitive
+sites; UN quotes &QL;
+&UR; By LEON BARKHO &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">BAGHDAD</ENAMEX>, <ENAMEX TYPE="GPE">Iraq</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ An <ENAMEX TYPE="GPE">American</ENAMEX> leader of a <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> weapons
+inspection team resumed work in <ENAMEX TYPE="GPE">Iraq</ENAMEX> Friday, nearly two months
+after his team was effectively blocked.
+<ENAMEX TYPE="PERSON">Scott Ritter</ENAMEX> led his team on a 10-hour tour of three suspected
+weapons sites classified as ``sensitive'' by the <ENAMEX TYPE="GPE">Iraqi</ENAMEX> authorities,
+<ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> spokesman <ENAMEX TYPE="PERSON">Alan Dacey</ENAMEX> said.
+``All sites were inspected to the satisfaction of the inspection
+team and with full cooperation of <ENAMEX TYPE="GPE">Iraqi</ENAMEX> authorities,'' <ENAMEX TYPE="PERSON">Dacey</ENAMEX> said.
+At least one of the sensitive sites was a barracks of the elite
+<ENAMEX TYPE="ORGANIZATION">Republican Guard</ENAMEX>, a well-placed source told <ENAMEX TYPE="ORGANIZATION">The Associated Press</ENAMEX>.
+Previously the Iraqis have resisted attempts to inspect such
+quarters.
+The <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> Security Council</ENAMEX> has charged the inspectors with
+verifying that <ENAMEX TYPE="GPE">Iraq</ENAMEX> has destroyed its long-range missiles and
+weapons of mass destruction.
+It was the first time that <ENAMEX TYPE="PERSON">Ritter</ENAMEX>, who arrived Thursday with
+some 50 inspectors for a tour likely to last over a week, had been
+allowed to carry out an inspection since Jan. 13.
+Then the <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Baghdad</ENAMEX></ENAMEX> government stopped providing <ENAMEX TYPE="PERSON">Ritter</ENAMEX>'s team with
+escorts, making it impossible for him to enter any site. <ENAMEX TYPE="GPE">Iraq</ENAMEX>
+alleged <ENAMEX TYPE="PERSON">Ritter</ENAMEX> was an <ENAMEX TYPE="GPE">American</ENAMEX> spy whose team had a
+disproportionately high number of Americans and Britons.
+The official <ENAMEX TYPE="ORGANIZATION">Iraqi News Agency</ENAMEX>, which gives the daily tally of
+inspections, did not mention <ENAMEX TYPE="PERSON">Ritter</ENAMEX> by name, but said Friday that
+team no. 225 _ which <ENAMEX TYPE="PERSON">Ritter</ENAMEX> heads _ made surprise visits to a
+number of sites and was assisted by aerial surveillance.
+Five other <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> inspection teams visited a total of nine other
+sites, the agency reported.
+An <ENAMEX TYPE="GPE">Iraqi</ENAMEX> official, speaking on customary condition of anonymity,
+said <ENAMEX TYPE="PERSON">Ritter</ENAMEX> would not try to visit any of the eight presidential
+sites that <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Baghdad</ENAMEX></ENAMEX> had placed off-limits to <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> weapons
+inspectors.
+The official said these sites could only be visited by a special
+team of <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> monitors and diplomats as laid down by the Feb. 23
+accord signed by <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> Secretary-General <ENAMEX TYPE="PERSON">Kofi Annan</ENAMEX> and <ENAMEX TYPE="GPE">Iraqi</ENAMEX> Deputy
+Prime Minister <ENAMEX TYPE="PERSON">Tariq Aziz</ENAMEX>.
+<ENAMEX TYPE="PERSON">Ritter</ENAMEX>'s return is seen as something of a test of that
+agreement, under which <ENAMEX TYPE="GPE">Iraq</ENAMEX> agreed to give inspectors full access
+to eight of <ENAMEX TYPE="PERSON">Saddam Hussein</ENAMEX>'s presidential palaces.
+The <ENAMEX TYPE="GPE">United States</ENAMEX> had moved additional troops and a naval armada
+into the Gulf and said it would strike <ENAMEX TYPE="GPE">Iraq</ENAMEX> unless it gave the <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX>
+arms inspectors unfettered access to all potential weapons sites,
+including <ENAMEX TYPE="PERSON">Saddam</ENAMEX>'s palaces. <ENAMEX TYPE="GPE">Iraq</ENAMEX> had argued the presidential sites
+should be off limits as symbols of sovereignty.
+A <ENAMEX TYPE="ORGANIZATION"><ENAMEX TYPE="FACILITY">Pentagon</ENAMEX></ENAMEX> spokesman said Thursday that the 38,000 <ENAMEX TYPE="GPE">U.S.</ENAMEX> troops
+in the Gulf will remain until <ENAMEX TYPE="GPE">Iraq</ENAMEX> complies with the <ENAMEX TYPE="ORGANIZATION">U.N. Security
+Council</ENAMEX> agreement over weapons inspections.
+``We are going to maintain our forces in the region for the
+foreseeable future,'' said spokesman <ENAMEX TYPE="PERSON">Kenneth Bacon</ENAMEX>.
+The <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX>-<ENAMEX TYPE="GPE">Iraq</ENAMEX> accord was worked out by <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> Secretary-General
+<ENAMEX TYPE="PERSON">Kofi Annan</ENAMEX>, who appointed a retired <ENAMEX TYPE="GPE">Indian</ENAMEX> diplomat on Thursday as
+his special representative to <ENAMEX TYPE="GPE">Iraq</ENAMEX>. <ENAMEX TYPE="PERSON">Prakash Shah</ENAMEX>, 58, a former
+<ENAMEX TYPE="GPE">Indian</ENAMEX> ambassador to the <ENAMEX TYPE="ORGANIZATION">United Nations</ENAMEX>, is part of an effort by
+<ENAMEX TYPE="PERSON">Annan</ENAMEX> to expand contacts with the <ENAMEX TYPE="GPE">Iraqi</ENAMEX> leadership.
+Palace inspections are not expected to start until the new
+agreement's procedures are in place. <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> officials in <ENAMEX TYPE="GPE">New York</ENAMEX> on
+Friday finished drafting the rules, in consultation with <ENAMEX TYPE="GPE">Iraqi</ENAMEX>
+diplomats. The procedures are due to go before the <ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX>
+next week.
+The <ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX> has said it will not lift the sweeping
+sanctions imposed on <ENAMEX TYPE="GPE">Iraq</ENAMEX> after its 1990 invasion of <ENAMEX TYPE="GPE">Kuwait</ENAMEX> until
+the <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> inspectors certify that <ENAMEX TYPE="GPE"><ENAMEX TYPE="GPE">Baghdad</ENAMEX></ENAMEX> has eliminated its weapons
+of mass destruction.
+</TEXT>
+&UR; lb-jbm
+(PROFILE
+(WS SL:BC-Iraq, 3rd Ld-Writethru; CT:i;
+(REG:MEST;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-06-98 1319EST
+</TRAILER>
+</DOC>
+
+

@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> APW19980213.1304 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 14:23:00 </DATE_TIME>
+<HEADER>
+w2106 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-Iraq-Deputyminister     02-13 0258
+</HEADER>
+<BODY>
+<SLUG> BC-Iraq-Deputy minister </SLUG>
+<HEADLINE>
+With BC-Iraq
+</HEADLINE>
+&UR; Iraqi minister rebutts Sandy Berger's allegations &QL;
+
+<TEXT>
+<ENAMEX TYPE="GPE">BAGHDAD</ENAMEX>, <ENAMEX TYPE="GPE">Iraq</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="GPE">Iraq</ENAMEX>'s deputy foreign minister attacked
+<ENAMEX TYPE="GPE">U.S.</ENAMEX> National Security Advisor <ENAMEX TYPE="PERSON">Sandy Berger</ENAMEX> Friday, accusing him of
+``lies and deception.''
+<ENAMEX TYPE="PERSON">Riyadh al-Qaysi</ENAMEX> picked his way through <ENAMEX TYPE="PERSON">Berger</ENAMEX>'s press conference
+in <ENAMEX TYPE="GPE">Washington</ENAMEX> hours earlier, criticizing the security advisor's
+assertion that <ENAMEX TYPE="GPE">Iraq</ENAMEX> had been repeatedly in ``material breach'' of
+<ENAMEX TYPE="ORGANIZATION">U.N. Security Council</ENAMEX> resolutions.
+``<ENAMEX TYPE="GPE">Iraq</ENAMEX> challenges (<ENAMEX TYPE="PERSON">Berger</ENAMEX>) to produce one <ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX>
+resolution using those two words,'' <ENAMEX TYPE="PERSON">al-Qaysi</ENAMEX> told reporters in
+<ENAMEX TYPE="GPE">Baghdad</ENAMEX>.
+He said that <ENAMEX TYPE="PERSON">Berger</ENAMEX> might not have been concerned with reality,
+because he had indicated that if the <ENAMEX TYPE="GPE">United States</ENAMEX> did not have the
+<ENAMEX TYPE="ORGANIZATION">Security Council</ENAMEX>'s unanimous support for a military strike, it
+would go ahead anyway.
+``Everybody knows that under the charter of the <ENAMEX TYPE="ORGANIZATION">United Nations</ENAMEX>,
+the five permanent members have a special responsibility for the
+maintenance of international peace and security and there are three
+permanent members _ namely <ENAMEX TYPE="GPE">Russia</ENAMEX>, <ENAMEX TYPE="GPE">France</ENAMEX> and <ENAMEX TYPE="GPE">China</ENAMEX> _ who do not
+want war, so unanimity does not exist,'' <ENAMEX TYPE="PERSON">al-Qaysi</ENAMEX> said.
+The deputy foreign minister accused <ENAMEX TYPE="PERSON">Berger</ENAMEX> of being part of a
+campaign against <ENAMEX TYPE="GPE">Iraq</ENAMEX>.
+``This campaign is being conducted on the basis of lies and
+deception and should not be taken by anyone in the world as being a
+justifiable basis for war.''
+``This is exactly what the <ENAMEX TYPE="GPE">United States</ENAMEX>, as supported by the
+<ENAMEX TYPE="GPE">United Kingdom</ENAMEX>, are trying to achieve.''
+MORE
+</TEXT>
+(PROFILE
+(WS SL:BC-Iraq-Deputy minister; CT:i;
+(REG:MEST;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1423EST
+</TRAILER>
+</DOC>
+

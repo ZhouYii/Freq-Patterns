@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> APW19980301.0720 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 03/01/1998 14:11:00 </DATE_TIME>
+<HEADER>
+w1219 &Cx1f; wstm-
+u i &Cx13;  &Cx11;  BC-Israel-Lebanon     03-01 0570
+</HEADER>
+<BODY>
+<SLUG> BC-Israel-Lebanon </SLUG>
+<HEADLINE>
+Political momentum gathers for Israeli pullout from Lebanon
+</HEADLINE>
+&UR; Eds: INCORPORATES Israel-Syria; ADDS background and additional
+comment Sunday &QL;
+
+<TEXT>
+<ENAMEX TYPE="GPE">JERUSALEM</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Top <ENAMEX TYPE="GPE">Israeli</ENAMEX> officials sent strong new signals
+Sunday that <ENAMEX TYPE="GPE">Israel</ENAMEX> wants to withdraw from southern <ENAMEX TYPE="LOCATION">Lebanon</ENAMEX>, where a
+costly war of attrition has been steadily claiming soldiers' lives.
+Prime Minister <ENAMEX TYPE="PERSON">Benjamin Netanyahu</ENAMEX> told his <ENAMEX TYPE="ORGANIZATION">Cabinet</ENAMEX> on Sunday
+that <ENAMEX TYPE="GPE">Israel</ENAMEX> was willing to withdraw from southern <ENAMEX TYPE="LOCATION">Lebanon</ENAMEX> provided
+<ENAMEX TYPE="GPE">Israel</ENAMEX>'s northern frontier could be secured.
+``If the <ENAMEX TYPE="GPE">Lebanese</ENAMEX> government will cooperate with us in making
+appropriate security arrangements in south <ENAMEX TYPE="GPE"><ENAMEX TYPE="LOCATION">Lebanon</ENAMEX></ENAMEX>, we will be
+happy to get out of <ENAMEX TYPE="GPE">Lebanon</ENAMEX> in the framework of implementation of
+U.N. Resolution 425,'' <ENAMEX TYPE="PERSON">Netanyahu</ENAMEX> told his ministers.
+That 1978 resolution calls for <ENAMEX TYPE="GPE">Israel</ENAMEX>'s unconditional withdrawal
+from the self-declared security zone it occupies in south <ENAMEX TYPE="LOCATION">Lebanon</ENAMEX>,
+and for the deployment of the <ENAMEX TYPE="GPE">Lebanese</ENAMEX> army and <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> forces to
+ensure security along the <ENAMEX TYPE="GPE">Lebanese</ENAMEX>-<ENAMEX TYPE="GPE">Israeli</ENAMEX> border.
+On Friday, <ENAMEX TYPE="PERSON">Netanyahu</ENAMEX> said he had ``no qualms'' about
+implementing the <ENAMEX TYPE="ORGANIZATION">U.N.</ENAMEX> resolution, as long as <ENAMEX TYPE="GPE">Israel</ENAMEX> had ``the
+necessary security safeguards.''
+<ENAMEX TYPE="ORGANIZATION">Cabinet</ENAMEX> minister <ENAMEX TYPE="PERSON">Michael Eitan</ENAMEX> said Sunday that <ENAMEX TYPE="PERSON">Netanyahu</ENAMEX>'s
+remarks marked a substantive change in <ENAMEX TYPE="GPE">Israel</ENAMEX>'s position.
+``We will defend our north from the international border,'' said
+<ENAMEX TYPE="PERSON">Eitan</ENAMEX>, the science minister. ``No one wants to stay in <ENAMEX TYPE="GPE">Lebanon</ENAMEX>;
+thus we think it better to withdraw.''
+<ENAMEX TYPE="PERSON">Uri Lubrani</ENAMEX>, <ENAMEX TYPE="GPE">Israel</ENAMEX>'s top official for <ENAMEX TYPE="GPE">Lebanon</ENAMEX> affairs, also
+suggested <ENAMEX TYPE="GPE">Israel</ENAMEX> was willing to modify its political goals in
+<ENAMEX TYPE="GPE">Lebanon</ENAMEX>.
+``This is a new thing...it means that we are willing to talk
+today _ full stop _ about security,'' <ENAMEX TYPE="PERSON">Lubrani</ENAMEX> told <ENAMEX TYPE="GPE">Israel</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Channel
+One</ENAMEX>. ``We have gotten off the issue of peace, off the issue of
+normalization.''
+As the death toll in <ENAMEX TYPE="GPE">Lebanon</ENAMEX> has mounted, the <ENAMEX TYPE="GPE">Israeli</ENAMEX> government
+has been faced with a growing grassroots movement calling for
+<ENAMEX TYPE="GPE">Israel</ENAMEX>'s unilateral withdrawal from <ENAMEX TYPE="GPE">Lebanon</ENAMEX>.
+Since 1985 _ when the Israelis created a security buffer zone
+southern <ENAMEX TYPE="LOCATION">Lebanon</ENAMEX> _ nearly 200 <ENAMEX TYPE="GPE">Israeli</ENAMEX> soldiers have been killed
+fighting <ENAMEX TYPE="ORGANIZATION">Hezbollah</ENAMEX> and other guerrillas. Last week, <ENAMEX TYPE="ORGANIZATION">Hezbollah</ENAMEX>
+fighters killed three <ENAMEX TYPE="GPE">Israeli</ENAMEX> soldiers and seriously wounded six
+others.
+The Israelis suffered a record 39 deaths in southern <ENAMEX TYPE="LOCATION">Lebanon</ENAMEX>
+last year. In addition, 73 soldiers were killed en route to <ENAMEX TYPE="GPE">Lebanon</ENAMEX>
+when two military helicopters crashed last February.
+The Maariv <ENAMEX TYPE="ORGANIZATION">newspaper</ENAMEX> said Sunday that <ENAMEX TYPE="PERSON">Netanyahu</ENAMEX>'s comments last
+week were in response to signals from <ENAMEX TYPE="GPE">Syria</ENAMEX> that it wants to renew
+the long-stalled peace talks between the two countries.
+The newspaper, quoting ``secret reports,'' said <ENAMEX TYPE="GPE">Syria</ENAMEX> had
+indicated its interest in resuming talks in remarks made last week
+by the <ENAMEX TYPE="GPE">Syrian</ENAMEX> ambassador to <ENAMEX TYPE="GPE">Washington</ENAMEX>, <ENAMEX TYPE="PERSON">Walid Mualem</ENAMEX>, in a lecture
+to a closed forum in <ENAMEX TYPE="GPE">Baltimore</ENAMEX>.
+Two top aides to <ENAMEX TYPE="PERSON">Netanyahu</ENAMEX>, political adviser <ENAMEX TYPE="PERSON">Uzi Arad</ENAMEX> and
+<ENAMEX TYPE="ORGANIZATION">Cabinet</ENAMEX> Secretary <ENAMEX TYPE="PERSON">Danny Naveh</ENAMEX>, left for <ENAMEX TYPE="GPE">Europe</ENAMEX> on Sunday,
+apparently to investigate the <ENAMEX TYPE="GPE">Syrian</ENAMEX> issue, the newspaper said.
+<ENAMEX TYPE="GPE">Israel</ENAMEX>-<ENAMEX TYPE="GPE">Syrian</ENAMEX> talks have been cut off for nearly two years.
+<ENAMEX TYPE="ORGANIZATION">Defense</ENAMEX> Minister <ENAMEX TYPE="PERSON">Yitzhak Mordechai</ENAMEX> was the first senior <ENAMEX TYPE="GPE">Israeli</ENAMEX>
+official to refer to U.N. resolution 425 in a speech six weeks ago,
+saying at the time he was willing to withdraw troops in exchange
+for guarantees that <ENAMEX TYPE="GPE">Israel</ENAMEX> would not be attacked.
+</TEXT>
+&UR; (pvs-dh-lk)
+(PROFILE
+(WS SL:BC-Israel-Lebanon; CT:i;
+(REG:MEST;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-03-01-98 1411EST
+</TRAILER>
+</DOC>

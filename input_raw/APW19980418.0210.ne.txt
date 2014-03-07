@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> APW19980418.0210 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 04/18/1998 06:07:00 </DATE_TIME>
+<HEADER>
+w1416 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Hungary-Astronaut     04-18 0248
+</HEADER>
+<BODY>
+<SLUG> BC-Hungary-Astronaut </SLUG>
+<HEADLINE>
+First and only Hungarian astronaut moving to the United States
+</HEADLINE>
+
+<TEXT>
+<ENAMEX TYPE="GPE">BUDAPEST</ENAMEX>, <ENAMEX TYPE="GPE">Hungary</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Tired of being sidelined, <ENAMEX TYPE="GPE">Hungarian</ENAMEX>
+astronaut <ENAMEX TYPE="PERSON">Bertalan Farkas</ENAMEX> is leaving for the <ENAMEX TYPE="GPE">United States</ENAMEX> to start
+a new career, he said Saturday.
+``Being 48 is too early to be retired,'' a fit-looking <ENAMEX TYPE="PERSON">Farkas</ENAMEX>
+said on state TV's morning talk show.
+With <ENAMEX TYPE="GPE">American</ENAMEX> astronaut <ENAMEX TYPE="PERSON">Jon McBride</ENAMEX>, <ENAMEX TYPE="PERSON">Farkas</ENAMEX> set up an
+<ENAMEX TYPE="GPE">American</ENAMEX>-<ENAMEX TYPE="GPE">Hungarian</ENAMEX> joint venture called <ENAMEX TYPE="ORGANIZATION">Orion 1980</ENAMEX>, manufacturing
+space-travel related technology.
+<ENAMEX TYPE="PERSON">Farkas</ENAMEX> will move to the company's <ENAMEX TYPE="GPE">U.S.</ENAMEX> headquarters.
+<ENAMEX TYPE="PERSON">Farkas</ENAMEX>, an air force captain, was sent into space on board the
+Soyuz 36 on May 26, 1980. He spent six days aboard the Salyut 6
+spacecraft with three <ENAMEX TYPE="GPE">Soviet</ENAMEX> astronauts, <ENAMEX TYPE="PERSON">Valery Kubasov</ENAMEX>, <ENAMEX TYPE="PERSON">Leonid
+Popov</ENAMEX> and <ENAMEX TYPE="PERSON">Valery Riumin</ENAMEX>.
+<ENAMEX TYPE="PERSON">McBride</ENAMEX>, 54, of <ENAMEX TYPE="GPE">Lewisburg</ENAMEX>, <ENAMEX TYPE="GPE">West Virginia</ENAMEX>, was part of a
+seven-member crew aboard the Orbiter Challenger in October 1984 and
+later served as assistant administrator for congressional relations
+for <ENAMEX TYPE="ORGANIZATION">NASA</ENAMEX>.
+<ENAMEX TYPE="PERSON">Farkas</ENAMEX> expressed the hope he could one day follow in the
+footsteps of fellow astronaut <ENAMEX TYPE="PERSON">John Glenn</ENAMEX>, who at 77 is about to go
+into space again.
+On May 22, 1995, <ENAMEX TYPE="PERSON">Farkas</ENAMEX> was made a brigadier general, and the
+following year he was appointed military attache at the <ENAMEX TYPE="GPE">Hungarian</ENAMEX>
+embassy in <ENAMEX TYPE="GPE">Washington</ENAMEX>.
+However, cited by <ENAMEX TYPE="GPE">District of Columbia</ENAMEX> traffic police in
+December for driving under the influence of alcohol, <ENAMEX TYPE="PERSON">Farkas</ENAMEX> was
+ordered home and retired.
+(ab/dc)
+</TEXT>
+(PROFILE
+(WS SL:BC-Hungary-Astronaut; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-04-18-98 0607EDT
+</TRAILER>
+</DOC>
+

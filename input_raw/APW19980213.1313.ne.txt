@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> APW19980213.1313 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 14:28:00 </DATE_TIME>
+<HEADER>
+w2115 &Cx1f; wstm-
+r s &Cx13;  &Cx11;  BC-Sports-Tennis-Paris     02-13 0223
+</HEADER>
+<BODY>
+<SLUG> BC-Sports-Tennis-Paris </SLUG>
+<HEADLINE>
+Novotna advances to semi-finals at Paris Open
+</HEADLINE>
+&UR; Eds: will be UPDATED with friday's final quarter-final &QL;
+
+<TEXT>
+<ENAMEX TYPE="GPE">PARIS</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Top seed <ENAMEX TYPE="PERSON">Jana Novotna</ENAMEX> of <ENAMEX TYPE="GPE">the Czech Republic</ENAMEX>
+recovered from a second set trouncing to advance to the semi-finals
+of the Paris Open Friday, beating seventh-seed <ENAMEX TYPE="PERSON">Barbara Paulus</ENAMEX>, of
+<ENAMEX TYPE="GPE">Austria</ENAMEX>, 6-2, 1-6, 6-4.
+``That was one tough match,'' <ENAMEX TYPE="PERSON">Novotna</ENAMEX>, 29, said. ``I'm just
+happy I came out a winner.''
+Winner of the season-ending Chase Championships and currently
+ranked third in the world, <ENAMEX TYPE="PERSON">Novotna</ENAMEX> now meets <ENAMEX TYPE="GPE">Germany</ENAMEX>'s <ENAMEX TYPE="PERSON">Anke Huber</ENAMEX>,
+seeded fifth, in Saturday's semi-finals.
+The dlrs 480,000 Paris Open is <ENAMEX TYPE="PERSON">Novotna</ENAMEX>'s first tournament of the
+year.
+In other action, <ENAMEX TYPE="GPE">Belgium</ENAMEX>'s <ENAMEX TYPE="PERSON">Dominique Van Roost</ENAMEX>, seeded sixth,
+beat the 1997 French Open champion <ENAMEX TYPE="PERSON">Iva Majoli</ENAMEX>, of <ENAMEX TYPE="GPE">Slovakia</ENAMEX>, 7-5
+6-3.
+Both players were treated for injuries during play, <ENAMEX TYPE="PERSON">Van Roost</ENAMEX>
+suffering from stiffness in the forearm and <ENAMEX TYPE="PERSON">Majoli</ENAMEX> with a
+right-ankle strain.
+``I played really good tennis today except at the start. I have
+a flat-hitting game and I can take the risks I want to take when I
+play indoors, '' <ENAMEX TYPE="PERSON">Van Roost</ENAMEX> said.
+The Belgian will now match up with the winner of the all-<ENAMEX TYPE="GPE">French</ENAMEX>
+duel later Friday between <ENAMEX TYPE="PERSON">Nathalie Tauziat</ENAMEX>, seeded fourth, and
+<ENAMEX TYPE="PERSON">Sarah Pitkowski</ENAMEX>.
+(ap-ip)
+</TEXT>
+(PROFILE
+(WS SL:BC-Sports-Tennis-Paris; CT:s;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:MEST;)
+(REG:AFRI;)
+(REG:INDI;)
+(REG:ENGL;)
+(REG:ASIA;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1428EST
+</TRAILER>
+</DOC>
+

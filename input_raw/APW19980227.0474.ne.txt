@@ -1,0 +1,77 @@
+<DOC>
+<DOCNO> APW19980227.0474 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/27/1998 08:01:00 </DATE_TIME>
+<HEADER>
+w2379 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-Croatia-Bosnia-Oil     02-27 0408
+</HEADER>
+<BODY>
+<SLUG> BC-Croatia-Bosnia-Oil </SLUG>
+<HEADLINE>
+Croatia's oil company confiscates oil from Bosnian firm
+</HEADLINE>
+&UR; By SNJEZANA VUKIC &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">ZAGREB</ENAMEX>, <ENAMEX TYPE="GPE">Croatia</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ Amid efforts to crack down on its
+longtime debtors, <ENAMEX TYPE="GPE">Croatia</ENAMEX>'s state-run oil company Friday
+confiscated 30,000 tons of oil products it had provided to a
+<ENAMEX TYPE="GPE">Bosnian</ENAMEX> company, the state-run news agency <ENAMEX TYPE="ORGANIZATION">HINA</ENAMEX> reported.
+Officials with the <ENAMEX TYPE="GPE">Croatian</ENAMEX> oil company <ENAMEX TYPE="ORGANIZATION">INA</ENAMEX> said the move was
+done for economic reasons, but it is likely to erode already-tense
+relations between the two neighbors.
+<ENAMEX TYPE="GPE">Bosnia</ENAMEX>'s state-owned oil company, <ENAMEX TYPE="ORGANIZATION">Energopetrol</ENAMEX>, owes <ENAMEX TYPE="ORGANIZATION">INA</ENAMEX> dlrs
+3.8 million. Friday, <ENAMEX TYPE="ORGANIZATION">INA</ENAMEX> confiscated 30,000 tons of oil and oil
+products it had provided to <ENAMEX TYPE="ORGANIZATION">Energopetrol</ENAMEX>. The <ENAMEX TYPE="GPE">Bosnian</ENAMEX> company had
+not paid for the products stored in the southern <ENAMEX TYPE="LOCATION">Croatian</ENAMEX> port of
+<ENAMEX TYPE="GPE">Ploce</ENAMEX>.
+``This was done suddenly, without any negotiations, discussions
+or warning,'' said <ENAMEX TYPE="PERSON">Aziz Tukulj</ENAMEX>, director of domestic sales for
+<ENAMEX TYPE="ORGANIZATION">Energopetrol</ENAMEX>. ``My personal feeling is that this is pure
+bullying.''
+<ENAMEX TYPE="ORGANIZATION">Energopetrol</ENAMEX> owes money to <ENAMEX TYPE="ORGANIZATION">INA</ENAMEX>, <ENAMEX TYPE="PERSON">Tukulj</ENAMEX> said, but wasn't sure how
+much. He added that <ENAMEX TYPE="ORGANIZATION">INA</ENAMEX> owes money to <ENAMEX TYPE="ORGANIZATION">Energopetrol</ENAMEX> and its parent
+company, <ENAMEX TYPE="ORGANIZATION">Energoinvest</ENAMEX>.
+He said contracts between the two companies require negotiations
+be undertaken to resolve disputes.
+A spokesman from <ENAMEX TYPE="ORGANIZATION">INA</ENAMEX> could not be reached to confirm <ENAMEX TYPE="PERSON">Tukulj</ENAMEX>'s
+comments.
+<ENAMEX TYPE="ORGANIZATION">INA</ENAMEX> recently announced that it would start punishing debtors
+because unpaid bills totaling dlrs 141 million threaten its
+business.
+Some debtors, like <ENAMEX TYPE="GPE">Croatia</ENAMEX>'s electric-power industry, airline
+and railway, promised to pay up immediately.
+It is doubtful whether <ENAMEX TYPE="GPE">Bosnia</ENAMEX>, whose economy is in ruins after a
+devastating war, can pay its debts.
+<ENAMEX TYPE="PERSON">Tukulj</ENAMEX> said the confiscation will not create shortages in
+<ENAMEX TYPE="GPE">Bosnia</ENAMEX>.
+But the move is likely to have political consequences.
+<ENAMEX TYPE="GPE">Bosnia</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Muslim</ENAMEX>-led leadership was outraged by a recent speech
+by <ENAMEX TYPE="GPE">Croatian</ENAMEX> President <ENAMEX TYPE="PERSON">Franjo Tudjman</ENAMEX>, in which he justified his
+support for the wartime <ENAMEX TYPE="GPE">Bosnian</ENAMEX> Croat substate.
+<ENAMEX TYPE="GPE">Bosnian</ENAMEX> leaders, as well as international officials, are leery
+of <ENAMEX TYPE="PERSON">Tudjman</ENAMEX>'s intentions towards <ENAMEX TYPE="GPE">Bosnia</ENAMEX>. They interpreted his
+remarks as an indication of his continued desire to annex a part of
+<ENAMEX TYPE="GPE">Bosnia</ENAMEX>.
+In addition, the two countries have failed to agree on terms for
+<ENAMEX TYPE="GPE">Bosnia</ENAMEX> to lease part of the <ENAMEX TYPE="GPE">Ploce</ENAMEX> port.
+The confiscation by <ENAMEX TYPE="ORGANIZATION">INA</ENAMEX> ``looks like some kind of (political)
+pressure,'' <ENAMEX TYPE="PERSON">Tukulj</ENAMEX> said.
+(sv/scl/sl)
+</TEXT>
+(PROFILE
+(WS SL:BC-Croatia-Bosnia-Oil; CT:i;
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-27-98 0801EST
+</TRAILER>
+</DOC>
+

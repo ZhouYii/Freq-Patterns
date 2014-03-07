@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> APW19980213.1309 </DOCNO>
+<DOCTYPE SOURCE="newswire"> NEWS STORY </DOCTYPE>
+<DATE_TIME> 02/13/1998 14:25:00 </DATE_TIME>
+<HEADER>
+w2111 &Cx1f; wstm-
+r i &Cx13;  &Cx11;  BC-DominicanRepublic-US-     02-13 0304
+</HEADER>
+<BODY>
+<SLUG> BC-Dominican Republic-US-Extradition,0309 </SLUG>
+<HEADLINE>
+Arrest ordered of doctor sought by U.S. in Medicare fraud
+</HEADLINE>
+&UR; By JOSE P. MONEGRO &QC;
+&UR; Associated Press Writer &QC;
+
+<TEXT>
+<ENAMEX TYPE="GPE">SANTO DOMINGO</ENAMEX>, <ENAMEX TYPE="GPE">Dominican Republic</ENAMEX> (<ENAMEX TYPE="ORGANIZATION">AP</ENAMEX>) _ <ENAMEX TYPE="GPE">Dominican</ENAMEX> authorities
+have arrested a doctor sought by <ENAMEX TYPE="GPE">U.S.</ENAMEX> authorities for defrauding
+the <ENAMEX TYPE="ORGANIZATION">Medicare</ENAMEX> system for millions of dollars while practicing in <ENAMEX TYPE="GPE">New
+York</ENAMEX>.
+The arrest of the politically well-connected Dr. <ENAMEX TYPE="PERSON">Rafael Gonzalez
+Pantaleon</ENAMEX> represents another step by <ENAMEX TYPE="GPE">Dominican</ENAMEX> authorities toward
+increased cooperation with the <ENAMEX TYPE="GPE">United States</ENAMEX>, which is seeking
+extradition of numerous suspects hiding out in their home country.
+<ENAMEX TYPE="PERSON">Gonzalez Pantaleon</ENAMEX>, a former government official and political
+party leader in this <ENAMEX TYPE="LOCATION">Caribbean</ENAMEX> nation, was convicted in <ENAMEX TYPE="GPE">New York</ENAMEX> in
+1996 of defrauding <ENAMEX TYPE="ORGANIZATION">Medicare</ENAMEX> of dlrs 20 million. He was sentenced to
+six and one-half years in prison and fined dlrs 5 million, but he
+fled the <ENAMEX TYPE="GPE">United States</ENAMEX> while free on bail.
+Officials said <ENAMEX TYPE="PERSON">Gonzalez Pantaleon</ENAMEX> was arrested Thursday, one day
+after <ENAMEX TYPE="GPE">U.S.</ENAMEX> Undersecretary of State <ENAMEX TYPE="PERSON">John Hamilton</ENAMEX> met with President
+<ENAMEX TYPE="PERSON">Leonel Fernandez</ENAMEX> to ask for the extradition of 30 drug trafficking
+and murder suspects believed to be in the <ENAMEX TYPE="GPE">Dominican Republic</ENAMEX>.
+Extradition of Dominicans is a controversial topic made more
+complicated by conflicting laws. While a 1910 treaty permits
+extradition, a law passed in 1969 prohibits Dominicans from being
+turned over to other nations. But the latter law did not abolish
+the previous treaty.
+<ENAMEX TYPE="PERSON">Fernandez</ENAMEX> has urged a new law be passed to clear up the
+conflict.
+Last year, <ENAMEX TYPE="PERSON">Fernandez</ENAMEX> handed over to <ENAMEX TYPE="GPE">U.S.</ENAMEX> authorities two
+suspects accused in <ENAMEX TYPE="GPE">U.S.</ENAMEX> courts of multiple murders, drug
+trafficking and conspiracy.
+<ENAMEX TYPE="PERSON">Fernandez</ENAMEX> justified the extraditions by saying that the country
+could not become a haven for fleeing felons.
+</TEXT>
+(PROFILE
+(WS SL:BC-Dominican Republic-US-Extradition; CT:i;
+(REG:CRB;)
+(REG:ENGL;)
+(LANG:ENGLISH;))
+)
+</BODY>
+<TRAILER>
+AP-NY-02-13-98 1425EST
+</TRAILER>
+</DOC>
+
