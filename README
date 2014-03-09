@@ -7,9 +7,12 @@ Components :
     
     patterns = takes many raw texts and dictionaries and output all patterns
 
-    (Stanford POS = POS labels on text files. Not used)
+    Stanford POS = POS labels on text files. 
 
-To demo : /find_patterns.sh input_raw out_dir
+    lemmatization = lemmatize using NLTK wordnet lemmatizer. 
+                    Uses POS hints from stanford POS
+
+To demo : /find_patterns.sh input out
 After running, out_dir/eclat gives all the patterns, out_dir/eclat_patterns
 gives all the patterns that meet some minimum pattern length and support.
 

@@ -14,6 +14,7 @@ do
     filename=${file:${#INPUT_DIR}+1}
     OUTPUT=$CWD$OUTPUT_DIR$filename
     cd $POS_HOME
-    ./stanford-postagger.sh ./models/wsj-0-18-bidirectional-nodistsim.tagger $CWD$file > $OUTPUT 
+    touch $OUTPUT
+    ./stanford-postagger.sh ./models/wsj-0-18-bidirectional-nodistsim.tagger $CWD$file>$OUTPUT 
     cd $CWD
 done

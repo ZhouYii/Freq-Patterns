@@ -9,7 +9,7 @@ fi
 CWD=`pwd`/
 LEMMATIZATION=$CWD/component/lemmatization/nltk_wordnet_lemmatizer.py
 INPUT_DIR=$1/
-for file in $INPUT_DIR/*
+for file in $INPUT_DIR/*_raw
 do
     echo $file
     python $LEMMATIZATION $file
