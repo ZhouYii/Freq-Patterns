@@ -1,0 +1,5 @@
+Persons:
+sometimes name is x , y , z : lastname, middlename, firstname or lastname, firstname, dr
+parentheticals give nickname but we sometimes don't know where first name is
+if firstname and lastname is less than 4 chars, then it's ambiguous
+army titles are badly ordered gen lastname, firstname ... etc
