@@ -12,8 +12,8 @@ OUTPUT_SUFFIX=_OUT
 for file in $INPUT_DIR/*_raw
 do
     filename=${file:${#INPUT_DIR}+1}
-    OUTPUT=$CWD$OUTPUT_DIR$filename$OUTPUT_SUFFIX
+    OUTPUT=$CWD$OUTPUT_DIR$filename
     cd $POS_HOME
-    ./stanford-postagger.sh ./models/wsj-0-18-bidirectional-nodistsim.tagger $CWD$file > $OUTPUT
+    ./stanford-postagger.sh ./models/wsj-0-18-bidirectional-nodistsim.tagger $CWD$file > $OUTPUT 
     cd $CWD
 done
