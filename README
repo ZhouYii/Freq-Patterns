@@ -4,6 +4,8 @@ Components :
     text and map of phrase->label.
     
     eclat = third party lib for association rule mining and freq pattern mining.
+
+    freq_substr = find frequent patterns by looking at n-grams
     
     patterns = takes many raw texts and dictionaries and output all patterns
 
