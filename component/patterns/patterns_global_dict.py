@@ -2,9 +2,9 @@ import sys
 from random import randrange
 from os import listdir
 from os.path import isfile, join
-PER_DICT_PATH=
-ORG_DICT_PATH=
-LOC_DICT_PATH=
+PER_DICT_PATH="/Users/Joey/Dev/news2/pattern_finding/dictionary/new_dict/person.proc"
+ORG_DICT_PATH="/Users/Joey/Dev/news2/pattern_finding/dictionary/new_dict/org.proc"
+LOC_DICT_PATH="/Users/Joey/Dev/news2/pattern_finding/dictionary/new_dict/location.proc"
 
 def get_filename(filepath) :
     parts = filepath.split('/')
@@ -17,34 +17,33 @@ def get_text(filepath) :
     raw_file = open(filepath, "r")
     return raw_file.read()
 
-def restore_dict(dict_path) :
+def restore_dict(dict_path, type_str) :
     dict_file = open(dict_path, "r")
     label_set = set()
     dictionary = dict()
     for line in dict_file :
         line = line.strip()
-        pair = line.split(',')
-        dictionary[pair[0]] = pair[1]
-        label_set.add(pair[1])
-    return label_set, dictionary
+        dictionary[line] = type_str
+        label_set.add(type_str)
+    return (label_set, dictionary)
 
 def generate_global_dict() :
     def join_dict(from_dict, into_dict) :
         for key in from_dict.keys() :
+            print key
             if key in into_dict.keys() :
                 continue
             else :
                 into_dict[key] = from_dict[key]
         return into_dict
-
-    per_labels, per_dict = restore_dict(PER_DICT_PATH)
-    loc_labels, loc_dict = restore_dict(LOC_DICT_PATH)
-    org_labels, org_dict = restore_dict(ORG_DICT_PATH)
-    full_labels = per_labels.union(loc_lables).union(org_labels)
+    per_labels, per_dict = restore_dict(PER_DICT_PATH, "PER")
+    loc_labels, loc_dict = restore_dict(LOC_DICT_PATH, "LOC")
+    org_labels, org_dict = restore_dict(ORG_DICT_PATH, "ORG")
+    full_labels = per_labels.union(org_labels).union(loc_labels)
     full_dict = dict()
-    full_dict = join_dict(per_dict, full_dict)
-    full_dict = join_dict(loc_dict, full_dict)
-    full_dict = join_dict(org_dict, full_dict)
+    full_dict.update(per_dict)
+    full_dict.update(org_dict)
+    full_dict.update(loc_dict)
     return full_labels, full_dict
 
 def rreplace(s, old, new, occurrence):
@@ -53,6 +52,7 @@ def rreplace(s, old, new, occurrence):
 
 def mine_patterns(sentences, label_set, output_file, seen_phrases, id_counter) :
     def commit_pattern(pattern, output_file) :
+        print pattern
         '''Input is a pattern (list). Writes it to file'''
         #first format for eclat
         pattern_str = ""
@@ -86,7 +86,6 @@ def mine_patterns(sentences, label_set, output_file, seen_phrases, id_counter) :
 if len(sys.argv) != 3 :
     print "Parser arguments : input_folder, output_file"
     sys.exit(1)
-#Get all files in input dir
 files = [ f for f in listdir(sys.argv[1]) if isfile(join(sys.argv[1],f)) ]
 #Filter input dir files by raw text files only
 raw_texts = [sys.argv[1]+'/'+f for f in files if f[-4:]=="_raw"]
@@ -96,8 +95,17 @@ new_id = 0
 label_set, dictionary = generate_global_dict()
 phrases = sorted(dictionary.keys(), key=lambda x:len(x), reverse=True)
 for filepath in raw_texts :
+    print "Current file : "+str(filepath)
     text = get_text(filepath)
     for phrase in phrases : 
-        text = text.replace(phrase, dictionary[phrase])
+        index = 0
+        while text[index:].count(phrase) > 0 :
+            next_index = text.find(phrase, index)
+            index = next_index + len(phrase) + 1
+            if text[next_index-1].isalnum() or text[next_index+len(phrase)].isalnum() :
+                continue
+            else :
+                text=text[:next_index]+str(dictionary[phrase])+text[next_index+len(phrase):]
+        #text = text.replace(phrase, dictionary[phrase])
     sentences = text.split(". ")
     new_id, seen_phrases = mine_patterns(sentences, label_set, output_file, seen_phrases, new_id)
